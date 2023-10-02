@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HTR_Kalimantan Tengah_Pulang Pisau_Maliku_Gandang Barat_GAPOKTAN SUMBER REJEKI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 2285, "HD_ID": 0.0, "NAMA_PROV": "Kalimantan Tengah", "NAMA_KAB": "Pulang Pisau", "NAMA_KEC": "Maliku", "NAMA_DESA": "Gandang Barat", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": "SK.6573\/MENLHK PSKL\/SET\/PSL.0\/12\/2016", "NAMA_HTR": "GAPOKTAN SUMBER REJEKI", "HTR_ID": 621101.0, "HKM_ID": 0.0, "Shape_Leng": 0.181037291366, "Shape_Area": 0.000222886783761, "Luas_Ha": 274.72287921100002, "Kategori": "HTR", "Nama_File": "HTR_Kalimantan Tengah_Pulang Pisau_Maliku_Gandang Barat_GAPOKTAN SUMBER REJEKI" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 114.044778624933656, -2.907971155744178 ], [ 114.035643996872977, -2.986039451759268 ], [ 114.034216002066955, -2.9852470528092 ], [ 114.037134188791811, -2.951632499140487 ], [ 114.041603577443198, -2.905431418125374 ], [ 114.046967761852784, -2.897294059972864 ], [ 114.044778624933656, -2.907971155744178 ] ] ] ] } }
+]
+}

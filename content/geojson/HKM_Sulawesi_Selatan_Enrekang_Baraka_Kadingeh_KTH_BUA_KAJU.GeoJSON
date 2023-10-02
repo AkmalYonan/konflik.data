@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sulawesi Selatan_Enrekang_Baraka_Kadingeh_KTH BUA KAJU",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1800, "HD_ID": 0.0, "NAMA_PROV": "Sulawesi Selatan", "NAMA_KAB": "Enrekang", "NAMA_KEC": "Baraka", "NAMA_DESA": "Kadingeh", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK.3010\/MENLHK-PSKL\/PKPS\/PSL.0\/3\/2019", "NAMA_HKM": "KTH BUA KAJU", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 731608.0, "Shape_Leng": 0.0252177629793, "Shape_Area": 3.2342738284100002e-05, "Luas_Ha": 39.885086775600001, "Kategori": "HKM", "Nama_File": "HKM_Sulawesi Selatan_Enrekang_Baraka_Kadingeh_KTH BUA KAJU" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 119.898888766803225, -3.472459865930034 ], [ 119.891129991755747, -3.474395382340958 ], [ 119.891116551387768, -3.474386698487308 ], [ 119.890228271217779, -3.473812819505952 ], [ 119.889541625345828, -3.473105191551326 ], [ 119.889366150527508, -3.472505093735037 ], [ 119.888603210669658, -3.471895932551206 ], [ 119.888061522921021, -3.470847845551589 ], [ 119.894766841116848, -3.469479762680862 ], [ 119.895339965567018, -3.469728947732676 ], [ 119.896081646350922, -3.469446494060378 ], [ 119.898888766803225, -3.472459865930034 ] ] ] ] } }
+]
+}

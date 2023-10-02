@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Kepulauan Riau_Lingga_Lingga Utara_Resun_KT BERKAH",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1350, "HD_ID": 0.0, "NAMA_PROV": "Kepulauan Riau", "NAMA_KAB": "Lingga", "NAMA_KEC": "Lingga Utara", "NAMA_DESA": "Resun", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK. 5419\/MENLHK-PSKL\/PKPS\/PSL.0\/8\/2018", "NAMA_HKM": "KT BERKAH", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 210401.0, "Shape_Leng": 0.035747202471200001, "Shape_Area": 7.8361065958999998e-05, "Luas_Ha": 96.455448866699996, "Kategori": "HKM", "Nama_File": "HKM_Kepulauan Riau_Lingga_Lingga Utara_Resun_KT BERKAH" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 104.590204678403268, -0.129443882629005 ], [ 104.583953456686743, -0.135877652331715 ], [ 104.578888970449668, -0.128483827566527 ], [ 104.584931891193889, -0.122110702746681 ], [ 104.590204678403268, -0.129443882629005 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Mawar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "PROVINSI": "NTT", "KABUPATEN": "Alor", "KECAMATAN": "Pantar Timur", "DESA": "Mawar", "NAMA": null, "SKEMA": "HKM", "SK": null, "FUNGSI": null, "KOMUNITAS": null, "WIL_ADAT": null, "TAHAPAN": null, "LUAS": 279.44039365100002, "MITRA_PEND": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 124.27664, -8.31192, 0.0 ], [ 124.27464, -8.30417, 0.0 ], [ 124.2725, -8.301, 0.0 ], [ 124.27228, -8.30124, 0.0 ], [ 124.27408, -8.29808, 0.0 ], [ 124.27817, -8.29847, 0.0 ], [ 124.28661, -8.30342, 0.0 ], [ 124.29183, -8.31061, 0.0 ], [ 124.28361, -8.32064, 0.0 ], [ 124.27844, -8.31492, 0.0 ], [ 124.27664, -8.31192, 0.0 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sumatera Utara_Mandailing Natal_Panyabungan Timur_Banjar Lancat_KTH MAJU II",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 986, "HD_ID": 0.0, "NAMA_PROV": "Sumatera Utara", "NAMA_KAB": "Mandailing Natal", "NAMA_KEC": "Panyabungan Timur", "NAMA_DESA": "Banjar Lancat", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "Proses", "NAMA_HKM": "KTH MAJU II", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 121305.0, "Shape_Leng": 0.030688664510200001, "Shape_Area": 6.3023463167199997e-05, "Luas_Ha": 77.582305891999994, "Kategori": "HKM", "Nama_File": "HKM_Sumatera Utara_Mandailing Natal_Panyabungan Timur_Banjar Lancat_KTH MAJU II" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 99.758846939834484, 0.727197834712342 ], [ 99.760052413588085, 0.724489589323127 ], [ 99.760802941002964, 0.722432794837687 ], [ 99.75951257664417, 0.719425674155559 ], [ 99.754985700629618, 0.718835756664873 ], [ 99.753381185093701, 0.720210374908902 ], [ 99.752687422886311, 0.722820772260889 ], [ 99.752491192614514, 0.72370862075627 ], [ 99.752491948045019, 0.728279001474789 ], [ 99.752282575980132, 0.728718474078391 ], [ 99.753328661988235, 0.728565190031532 ], [ 99.755006189883829, 0.728687396206396 ], [ 99.757502586475255, 0.727370516236363 ], [ 99.758846939834484, 0.727197834712342 ] ] ] ] } }
+]
+}

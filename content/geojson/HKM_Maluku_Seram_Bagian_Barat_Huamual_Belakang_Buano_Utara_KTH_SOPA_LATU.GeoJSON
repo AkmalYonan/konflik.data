@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Maluku_Seram Bagian Barat_Huamual Belakang_Buano Utara_KTH SOPA LATU",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 2056, "HD_ID": 0.0, "NAMA_PROV": "Maluku", "NAMA_KAB": "Seram Bagian Barat", "NAMA_KEC": "Huamual Belakang", "NAMA_DESA": "Buano Utara", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK. 9050\/MENLHK-PSKL\/PKPS\/PSL.0\/12\/2018", "NAMA_HKM": "KTH SOPA LATU", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 810618.0, "Shape_Leng": 0.073278382469399994, "Shape_Area": 0.00031864090657700002, "Luas_Ha": 392.746416555, "Kategori": "HKM", "Nama_File": "HKM_Maluku_Seram Bagian Barat_Huamual Belakang_Buano Utara_KTH SOPA LATU" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 127.951465159989198, -2.96415864150805 ], [ 127.949763288345139, -2.966073270265156 ], [ 127.932878916229015, -2.954666898058861 ], [ 127.946778549090823, -2.9439357071671 ], [ 127.946791355436744, -2.943925820020524 ], [ 127.961924131493561, -2.954384358950961 ], [ 127.961681125683413, -2.954627363861732 ], [ 127.960812403070008, -2.955496086475137 ], [ 127.959167659959576, -2.957140829585569 ], [ 127.958234441566333, -2.95781953264526 ], [ 127.955402003399854, -2.959879485549777 ], [ 127.952326448806616, -2.963222462546582 ], [ 127.951465159989198, -2.96415864150805 ] ] ] ] } }
+]
+}

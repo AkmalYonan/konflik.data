@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HD_Papua_Lanny Jaya_Melagi_Wabiragi_Wabiragi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 873, "HD_ID": 912301.0, "NAMA_PROV": "Papua", "NAMA_KAB": "Lanny Jaya", "NAMA_KEC": "Melagi", "NAMA_DESA": "Wabiragi", "NAMA_LPHD": "Wabiragi", "NO_SK_HPHD": "Proses", "NO_SK_PAK": null, "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 0.0, "Shape_Leng": 0.140189658317, "Shape_Area": 0.00077946863096000003, "Luas_Ha": 961.74357606199999, "Kategori": "HD", "Nama_File": "HD_Papua_Lanny Jaya_Melagi_Wabiragi_Wabiragi" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 138.276803177424767, -3.938474482111587 ], [ 138.275094216425032, -3.938881704127311 ], [ 138.274469795544746, -3.926725318918272 ], [ 138.277308486697393, -3.919934488685669 ], [ 138.287842819590537, -3.920510718494825 ], [ 138.313051294082015, -3.921889626504992 ], [ 138.333436171142466, -3.922836486714459 ], [ 138.326743788794829, -3.933320193172335 ], [ 138.282201929975145, -3.937188031602318 ], [ 138.276803177424767, -3.938474482111587 ] ] ] ] } }
+]
+}

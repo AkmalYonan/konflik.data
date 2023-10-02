@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sulawesi Selatan_Barru_Mallusetasi_Nepo_KT MERREPANG",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1765, "HD_ID": 0.0, "NAMA_PROV": "Sulawesi Selatan", "NAMA_KAB": "Barru", "NAMA_KEC": "Mallusetasi", "NAMA_DESA": "Nepo", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": "SK. 185\/MenLHK-II\/2015", "NO_IUPHKM": "SK.6897\/MENLHK-PSKL\/PKPS\/PSL.0\/12\/2017", "NAMA_HKM": "KT MERREPANG", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 731103.0, "Shape_Leng": 0.0367952800426, "Shape_Area": 8.2348937989399997e-05, "Luas_Ha": 101.635766813, "Kategori": "HKM", "Nama_File": "HKM_Sulawesi Selatan_Barru_Mallusetasi_Nepo_KT MERREPANG" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 119.678704969558794, -4.168049090093405 ], [ 119.676656988429386, -4.169819474788881 ], [ 119.673734618058234, -4.168305148663649 ], [ 119.6732463203615, -4.164750124118882 ], [ 119.676989020826682, -4.162376216089456 ], [ 119.677905135014043, -4.160400483795229 ], [ 119.679952594536644, -4.158480674043801 ], [ 119.683497694163293, -4.159305444990252 ], [ 119.686426502780932, -4.162732542772574 ], [ 119.685182978711509, -4.164709392924124 ], [ 119.68295530943999, -4.166151627595468 ], [ 119.678704969558794, -4.168049090093405 ] ] ] ] } }
+]
+}

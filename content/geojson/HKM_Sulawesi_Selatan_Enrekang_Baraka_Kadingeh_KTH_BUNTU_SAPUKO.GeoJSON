@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sulawesi Selatan_Enrekang_Baraka_Kadingeh_KTH BUNTU SAPUKO",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1806, "HD_ID": 0.0, "NAMA_PROV": "Sulawesi Selatan", "NAMA_KAB": "Enrekang", "NAMA_KEC": "Baraka", "NAMA_DESA": "Kadingeh", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "Proses", "NAMA_HKM": "KTH BUNTU SAPUKO", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 731614.0, "Shape_Leng": 0.024710967733400001, "Shape_Area": 3.4042278452200002e-05, "Luas_Ha": 41.981130360599998, "Kategori": "HKM", "Nama_File": "HKM_Sulawesi Selatan_Enrekang_Baraka_Kadingeh_KTH BUNTU SAPUKO" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 119.891129991755747, -3.474395382340958 ], [ 119.898888766803225, -3.472459865930034 ], [ 119.89934539757212, -3.475009679553011 ], [ 119.898239136127245, -3.475913763509311 ], [ 119.898063659510285, -3.476587057146901 ], [ 119.898063659510285, -3.47753357921124 ], [ 119.898178569485481, -3.478054438661388 ], [ 119.89222717364521, -3.478202820503725 ], [ 119.891258239576132, -3.477309464560108 ], [ 119.891281128221522, -3.476156235122119 ], [ 119.891654967402928, -3.474734544563546 ], [ 119.891129991755747, -3.474395382340958 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Maluku_Seram Bagian Barat_Huamual Belakang_Buano Utara_KTH MANU SEKEALI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 2061, "HD_ID": 0.0, "NAMA_PROV": "Maluku", "NAMA_KAB": "Seram Bagian Barat", "NAMA_KEC": "Huamual Belakang", "NAMA_DESA": "Buano Utara", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK. 6363\/MENLHK-PSKL\/PKPS\/PSL.0\/7\/2019", "NAMA_HKM": "KTH MANU SEKEALI\r\n", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 810623.0, "Shape_Leng": 0.075994146659800005, "Shape_Area": 0.00021340336803400001, "Luas_Ha": 263.037541809, "Kategori": "HKM", "Nama_File": "HKM_Maluku_Seram Bagian Barat_Huamual Belakang_Buano Utara_KTH MANU SEKEALI" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 127.94422825343122, -2.973410948556364 ], [ 127.943078034923474, -2.975113267163522 ], [ 127.940730365514014, -2.98012167257707 ], [ 127.916460700501034, -2.957534726346523 ], [ 127.919285971970112, -2.956969674211052 ], [ 127.92339394107762, -2.955771517341589 ], [ 127.924323707872873, -2.955179846172939 ], [ 127.94422825343122, -2.973410948556364 ] ] ] ] } }
+]
+}

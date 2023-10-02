@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HD_Riau_Pelalawan_Teluk Meranti_Segamai_Segamai",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 140, "HD_ID": 140504.0, "NAMA_PROV": "Riau", "NAMA_KAB": "Pelalawan", "NAMA_KEC": "Teluk Meranti", "NAMA_DESA": "Segamai", "NAMA_LPHD": "Segamai", "NO_SK_HPHD": "SK.1012\/Menlhk-PSKL\/PKPS\/PSL.0\/3\/2017", "NO_SK_PAK": "SK.342\/Menhut-II\/2015", "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 0.0, "Shape_Leng": 0.24734171553699999, "Shape_Area": 0.0018426656606099999, "Luas_Ha": 2268.2400227600001, "Kategori": "HD", "Nama_File": "HD_Riau_Pelalawan_Teluk Meranti_Segamai_Segamai" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 102.944345089354442, 0.559344472169698 ], [ 102.944325013788443, 0.559302545775893 ], [ 102.962237224668229, 0.535935586058486 ], [ 103.0113480019088, 0.471677532092485 ], [ 103.001148379594099, 0.463836023913416 ], [ 102.933875576896412, 0.537054071088562 ], [ 102.936045569947169, 0.541689979109321 ], [ 102.944322925562631, 0.559373469909758 ], [ 102.944345089354442, 0.559344472169698 ] ] ] ] } }
+]
+}

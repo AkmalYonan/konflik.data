@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HA_Aceh_Aceh Besar_Gampong Lambaro Neujib",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 193, "SK_MENLHK": null, "WIL_ADAT_1": "Gampong Lambaro Neujib", "KAB_1": "Aceh Besar", "PROV_1": "Aceh", "REGION_1": "Sumatera", "HUTAN_AD_1": "Potensi Hutan Adat", "STAT_BRWA": "Teregistrasi", "TIPE_KEBIJ": "Pengaturan", "KEBIJAKAN": "Perda Pengaturan", "PERDA": "Qanun No. 8 Tahun 2009 tentang Pemerintahan Mukim", "TAHUN_PERD": 2009, "SK": null, "TAHUN_SK": 0, "Shape_Leng": 0.0016254598877499999, "Shape_Area": 1.00316190368e-07, "Luas": 0.124068107485, "ID": 92, "Nama_File": "HA_Aceh_Aceh Besar_Gampong Lambaro Neujib" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 95.231538126583359, 5.544432461588883, 0.000041999999667 ], [ 95.231526927325888, 5.544430594596292, 0.000142000004416 ], [ 95.231015546730134, 5.544386345253656, 0.000041999999667 ], [ 95.231003899610357, 5.54482108202734, 0.000041999999667 ], [ 95.231273681835034, 5.54457326304572, 0.000041999999667 ], [ 95.231384257977197, 5.544514388028631, 0.000041999999667 ], [ 95.231538126583359, 5.544432461588883, 0.000041999999667 ] ] ] ] } }
+]
+}

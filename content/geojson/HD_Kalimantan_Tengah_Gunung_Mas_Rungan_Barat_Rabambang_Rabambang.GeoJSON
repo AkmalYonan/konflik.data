@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HD_Kalimantan Tengah_Gunung Mas_Rungan Barat_Rabambang_Rabambang",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 425, "HD_ID": 621001.0, "NAMA_PROV": "Kalimantan Tengah", "NAMA_KAB": "Gunung Mas", "NAMA_KEC": "Rungan Barat", "NAMA_DESA": "Rabambang", "NAMA_LPHD": "Rabambang", "NO_SK_HPHD": "SK. 6605\/MENLHK-PSKL\/PKPS\/PSL.0\/12\/2016", "NO_SK_PAK": "SK. 57\/Menhut-II\/2015", "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 0.0, "Shape_Leng": 0.107049355666, "Shape_Area": 0.00036000455649500002, "Luas_Ha": 443.23476894100003, "Kategori": "HD", "Nama_File": "HD_Kalimantan Tengah_Gunung Mas_Rungan Barat_Rabambang_Rabambang" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 113.461651111010042, -1.212820542833754 ], [ 113.421015800139116, -1.234380206980916 ], [ 113.416869567576555, -1.228857082688194 ], [ 113.416160607725942, -1.227912689319112 ], [ 113.434850220461385, -1.218042569608826 ], [ 113.44091136326881, -1.214841636032645 ], [ 113.452303601729909, -1.208825311838609 ], [ 113.455602042500345, -1.207083381692655 ], [ 113.455629297354221, -1.207068988043318 ], [ 113.457544353289336, -1.20889809666977 ], [ 113.461651111010042, -1.212820542833754 ] ] ] ] } }
+]
+}

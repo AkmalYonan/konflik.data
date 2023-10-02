@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HD_Papua Barat_Raja Ampat_Waiego Utara_Kampung Kabare_Kampung Kabare",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 910, "HD_ID": 920504.0, "NAMA_PROV": "Papua Barat", "NAMA_KAB": "Raja Ampat", "NAMA_KEC": "Waiego Utara", "NAMA_DESA": "Kampung Kabare", "NAMA_LPHD": "Kampung Kabare", "NO_SK_HPHD": "Proses", "NO_SK_PAK": null, "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 0.0, "Shape_Leng": 0.056234811268399999, "Shape_Area": 0.00018354459865, "Luas_Ha": 225.92661945099999, "Kategori": "HD", "Nama_File": "HD_Papua Barat_Raja Ampat_Waiego Utara_Kampung Kabare_Kampung Kabare" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 130.984002385501753, -0.082482941934188 ], [ 130.985142826580272, -0.080628065932444 ], [ 130.985199543224439, -0.080535820671514 ], [ 130.988823712144608, -0.074641342024279 ], [ 130.98948669415563, -0.074417174313112 ], [ 130.990020752056125, -0.07506661793002 ], [ 130.991638184554631, -0.075499637897906 ], [ 130.99238586471597, -0.077339693072304 ], [ 130.993453980516847, -0.076365618478462 ], [ 130.994582948943957, -0.076571017338551 ], [ 130.996471191592263, -0.085697527219054 ], [ 130.996802772530032, -0.0873001649706 ], [ 130.994769798387551, -0.092975550780977 ], [ 130.994568825091278, -0.093536602732001 ], [ 130.980538474870741, -0.08811691576301 ], [ 130.984002430467854, -0.082482985101649 ], [ 130.984002385501753, -0.082482941934188 ] ] ] ] } }
+]
+}

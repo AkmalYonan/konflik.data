@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sulawesi Selatan_Enrekang_Baroko_Benteng Alla Utara_KTH TALLULOLONA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1805, "HD_ID": 0.0, "NAMA_PROV": "Sulawesi Selatan", "NAMA_KAB": "Enrekang", "NAMA_KEC": "Baroko", "NAMA_DESA": "Benteng Alla Utara", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "Proses", "NAMA_HKM": "KTH TALLULOLONA", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 731613.0, "Shape_Leng": 0.015632744188500001, "Shape_Area": 1.6195552536700001e-05, "Luas_Ha": 19.967666001400001, "Kategori": "HKM", "Nama_File": "HKM_Sulawesi Selatan_Enrekang_Baroko_Benteng Alla Utara_KTH TALLULOLONA" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 119.782007613560609, -3.243007346311913 ], [ 119.782723150153288, -3.243440433729006 ], [ 119.783536329737899, -3.243026431724388 ], [ 119.784813269017263, -3.244758526884482 ], [ 119.78441784071083, -3.246434386537658 ], [ 119.783344536721074, -3.24726290316039 ], [ 119.781969953550629, -3.24696162487902 ], [ 119.780990798686503, -3.24698045398469 ], [ 119.78023760388237, -3.245718850844241 ], [ 119.780181113867343, -3.244457247703792 ], [ 119.779748025551044, -3.243421603723959 ], [ 119.780783670430083, -3.242856707171256 ], [ 119.782007613560609, -3.243007346311913 ] ] ] ] } }
+]
+}

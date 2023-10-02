@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Kepulauan Bangka Belitung_Bangka_Riau Silip_Deniang_KTH ALAM JAYA MANDIRI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1305, "HD_ID": 0.0, "NAMA_PROV": "Kepulauan Bangka Belitung", "NAMA_KAB": "Bangka", "NAMA_KEC": "Riau Silip\r\n", "NAMA_DESA": "Deniang", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK.5438\/MENLHK-PSKL\/PKPS\/PSL.0\/6\/2019", "NAMA_HKM": "KTH ALAM JAYA MANDIRI", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 190118.0, "Shape_Leng": 0.027292638376899998, "Shape_Area": 2.51820574932e-05, "Luas_Ha": 31.011278674900002, "Kategori": "HKM", "Nama_File": "HKM_Kepulauan Bangka Belitung_Bangka_Riau Silip_Deniang_KTH ALAM JAYA MANDIRI" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 106.069745339875567, -1.744788720123267 ], [ 106.068069025165414, -1.745593545006045 ], [ 106.065771116144163, -1.743108496959508 ], [ 106.064649943939799, -1.742070049792915 ], [ 106.065942921728492, -1.740929713935088 ], [ 106.063014707562786, -1.736235323901042 ], [ 106.064611915207763, -1.735304047144041 ], [ 106.068414791109774, -1.741689937840306 ], [ 106.070321779226788, -1.743901956210266 ], [ 106.070321066064423, -1.743904110086589 ], [ 106.070144441912532, -1.744255684751977 ], [ 106.069745339875567, -1.744788720123267 ] ] ] ] } }
+]
+}

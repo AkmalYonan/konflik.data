@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ID_38",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "KABUPATEN": "Kota Palu", "Kecamatan": "Tatanga", "DESA": "Duyu", "KOMUNITAS": null, "Thn_PP": "2018", "STAT_BRWA": null, "KEBIJAKAN": null, "PERDA": null, "PROVINSI": "Sulawesi Tengah", "Sumber": null, "KLAS": "Usulan TORA", "Keterangan": "Usulan TORA", "Batas_Desa": null, "Luas_Ha": 26.241830648899999, "BA_Batas": null, "Update_PP": null, "REGION": null, "PW": null, "PD": null, "PENGUSUL": null, "TIPE_KEBIJ": null, "TAHUN_PERD": 0.0, "SK": null, "TAHUN_SK": 0.0, "KET_HA": null, "LOKASI_PRI": null, "ID": 38 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 119.837775664763285, -0.918135891965233, 0.0 ], [ 119.832640340338713, -0.918521521884331, 0.0 ], [ 119.832218104307429, -0.916336059658793, 0.0 ], [ 119.832095005469085, -0.915344204191707, 0.0 ], [ 119.833320088327696, -0.914603279488163, 0.0 ], [ 119.834288885429004, -0.91422474029216, 0.0 ], [ 119.837398984994977, -0.91392245851115, 0.0 ], [ 119.837775664763285, -0.918135891965233, 0.0 ] ] ] ] } }
+]
+}

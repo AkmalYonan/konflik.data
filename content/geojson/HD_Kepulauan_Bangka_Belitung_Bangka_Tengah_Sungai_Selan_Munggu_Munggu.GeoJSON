@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HD_Kepulauan Bangka Belitung_Bangka Tengah_Sungai Selan_Munggu_Munggu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 242, "HD_ID": 190402.0, "NAMA_PROV": "Kepulauan Bangka Belitung", "NAMA_KAB": "Bangka Tengah", "NAMA_KEC": "Sungai Selan", "NAMA_DESA": "Munggu", "NAMA_LPHD": "Munggu", "NO_SK_HPHD": "188.444\/211\/DISHUT\/2016", "NO_SK_PAK": "SK.208\/Menlhk-Setjen\/2015", "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 0.0, "Shape_Leng": 0.057684846677200002, "Shape_Area": 0.00016460871146100001, "Luas_Ha": 202.80700587499999, "Kategori": "HD", "Nama_File": "HD_Kepulauan Bangka Belitung_Bangka Tengah_Sungai Selan_Munggu_Munggu" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 105.974334090346076, -2.452607514525141 ], [ 105.957223969510665, -2.466062671854786 ], [ 105.952961358380037, -2.457803558087676 ], [ 105.970154099931847, -2.447515536912476 ], [ 105.974334090346076, -2.452607514525141 ] ] ] ] } }
+]
+}

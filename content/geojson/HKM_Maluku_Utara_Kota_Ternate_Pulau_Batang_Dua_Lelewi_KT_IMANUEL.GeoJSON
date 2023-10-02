@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Maluku Utara_Kota Ternate_Pulau Batang Dua_Lelewi_KT IMANUEL",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 2093, "HD_ID": 0.0, "NAMA_PROV": "Maluku Utara", "NAMA_KAB": "Kota Ternate", "NAMA_KEC": "Pulau Batang Dua", "NAMA_DESA": "Lelewi", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK. 10419\/MENLHK-PSKL\/PKPS\/PSL.0\/12\/2019", "NAMA_HKM": "KT IMANUEL", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 827101.0, "Shape_Leng": 0.041025913134000003, "Shape_Area": 0.00010472443564, "Luas_Ha": 128.94069412100001, "Kategori": "HKM", "Nama_File": "HKM_Maluku Utara_Kota Ternate_Pulau Batang Dua_Lelewi_KT IMANUEL" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 126.385315894113319, 1.31396011336858 ], [ 126.3811716931192, 1.311554175085178 ], [ 126.379883421482759, 1.313066499319518 ], [ 126.377079829970285, 1.316502003964331 ], [ 126.375074324720345, 1.3192874228763 ], [ 126.374481349534676, 1.319880399860608 ], [ 126.376520130599602, 1.323491417994603 ], [ 126.379700231380639, 1.325962951928716 ], [ 126.388743782399729, 1.316411895492649 ], [ 126.385315894113319, 1.31396011336858 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sumatera Utara_Mandailing Natal_Panyabungan Timur_Huta Bangun_KTH MAWAR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 987, "HD_ID": 0.0, "NAMA_PROV": "Sumatera Utara", "NAMA_KAB": "Mandailing Natal", "NAMA_KEC": "Panyabungan Timur", "NAMA_DESA": "Huta Bangun", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "Proses", "NAMA_HKM": "KTH MAWAR", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 121306.0, "Shape_Leng": 0.035202438234299999, "Shape_Area": 7.1397257635999998e-05, "Luas_Ha": 87.891136873299999, "Kategori": "HKM", "Nama_File": "HKM_Sumatera Utara_Mandailing Natal_Panyabungan Timur_Huta Bangun_KTH MAWAR" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 99.705936990999419, 0.755524828008447 ], [ 99.712388453964024, 0.759431488372513 ], [ 99.715717574206735, 0.760529632536588 ], [ 99.717302185947176, 0.75171001630423 ], [ 99.715489511531814, 0.751482227922509 ], [ 99.708420032658466, 0.750323255413946 ], [ 99.708336134904755, 0.751569383919957 ], [ 99.708355170854531, 0.752425989967492 ], [ 99.708267204567903, 0.753286309315797 ], [ 99.707688921606518, 0.753796559463694 ], [ 99.707136887157674, 0.754348593912539 ], [ 99.706527744859613, 0.754919665210423 ], [ 99.705936990999419, 0.755524828008447 ] ] ] ] } }
+]
+}

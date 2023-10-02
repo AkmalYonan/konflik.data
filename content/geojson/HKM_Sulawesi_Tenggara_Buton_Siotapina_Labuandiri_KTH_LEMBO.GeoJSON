@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sulawesi Tenggara_Buton_Siotapina_Labuandiri_KTH LEMBO",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1871, "HD_ID": 0.0, "NAMA_PROV": "Sulawesi Tenggara", "NAMA_KAB": "Buton", "NAMA_KEC": "Siotapina", "NAMA_DESA": "Labuandiri", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK. 9048\/MENLHK-PSKL\/PKPS\/PSL.0\/12\/2018", "NAMA_HKM": "KTH LEMBO", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 740407.0, "Shape_Leng": 0.075334475027600004, "Shape_Area": 0.00022154287409800001, "Luas_Ha": 273.90533458800002, "Kategori": "HKM", "Nama_File": "HKM_Sulawesi Tenggara_Buton_Siotapina_Labuandiri_KTH LEMBO" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 123.090653413024597, -5.338698477952335 ], [ 123.090274887476085, -5.34196027674534 ], [ 123.088634831632248, -5.341631194124261 ], [ 123.088623469597451, -5.343914564705358 ], [ 123.087909509516294, -5.343916787829471 ], [ 123.079507509663927, -5.343942952705049 ], [ 123.079526604069542, -5.352021488900562 ], [ 123.079457370661203, -5.352021354901581 ], [ 123.066339866491717, -5.351995918476803 ], [ 123.066347677103636, -5.340696815605497 ], [ 123.070526558653796, -5.340696349756684 ], [ 123.070535341432901, -5.338579462572113 ], [ 123.090653413024597, -5.338698477952335 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sumatera Utara_Mandailing Natal_Panyabungan Timur_Huta Bangun_KTH INGIN MAJU",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 985, "HD_ID": 0.0, "NAMA_PROV": "Sumatera Utara", "NAMA_KAB": "Mandailing Natal", "NAMA_KEC": "Panyabungan Timur", "NAMA_DESA": "Huta Bangun", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "Proses", "NAMA_HKM": "KTH INGIN MAJU", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 121304.0, "Shape_Leng": 0.0355145403143, "Shape_Area": 7.577581571000001e-05, "Luas_Ha": 93.281338972200004, "Kategori": "HKM", "Nama_File": "HKM_Sumatera Utara_Mandailing Natal_Panyabungan Timur_Huta Bangun_KTH INGIN MAJU" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 99.712388453964024, 0.759431488372513 ], [ 99.705936990999419, 0.755524828008447 ], [ 99.705747280812432, 0.755719164308061 ], [ 99.705023924614466, 0.75644252140529 ], [ 99.704509962065174, 0.75686130510519 ], [ 99.703748533967712, 0.757641769152372 ], [ 99.703234570519101, 0.758250911450432 ], [ 99.702625429120303, 0.758821980949733 ], [ 99.701997250872466, 0.759526302097186 ], [ 99.701311965674734, 0.760173515395479 ], [ 99.700798003125385, 0.760915908442485 ], [ 99.703769627566317, 0.762861617769488 ], [ 99.70891008583186, 0.766025293332689 ], [ 99.710458087970437, 0.766593971534633 ], [ 99.711903483758817, 0.767138016406363 ], [ 99.712388453964024, 0.759431488372513 ] ] ] ] } }
+]
+}

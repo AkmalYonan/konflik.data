@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HD_Kalimantan Tengah_Kapuas_Kapuas Tengah_Kayu Bulan_Kayu Bulan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 412, "HD_ID": 620305.0, "NAMA_PROV": "Kalimantan Tengah", "NAMA_KAB": "Kapuas", "NAMA_KEC": "Kapuas Tengah", "NAMA_DESA": "Kayu Bulan", "NAMA_LPHD": "Kayu Bulan", "NO_SK_HPHD": "SK.1217\/MENLHK-PSKL\/PKPS\/PSL.0\/3\/2018", "NO_SK_PAK": null, "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 0.0, "Shape_Leng": 0.045519057987600003, "Shape_Area": 6.3590429193099998e-05, "Luas_Ha": 78.302612363899996, "Kategori": "HD", "Nama_File": "HD_Kalimantan Tengah_Kapuas_Kapuas Tengah_Kayu Bulan_Kayu Bulan" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 114.367002486375668, -1.533118011486977 ], [ 114.367003856043198, -1.551474538718935 ], [ 114.366160684967667, -1.548301620823111 ], [ 114.359645370137741, -1.53311809152666 ], [ 114.367002486375668, -1.533118011486977 ] ] ] ] } }
+]
+}

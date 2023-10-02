@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HD_Sumatera Selatan_Muara Enim_Tanjung Agung_Muara Emil_Muara Emil",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 202, "HD_ID": 160316.0, "NAMA_PROV": "Sumatera Selatan", "NAMA_KAB": "Muara Enim", "NAMA_KEC": "Tanjung Agung", "NAMA_DESA": "Muara Emil", "NAMA_LPHD": "Muara Emil", "NO_SK_HPHD": "SK.2264\/Menlhk-PSKL\/PKPS\/PSL.0\/4\/2017", "NO_SK_PAK": null, "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 0.0, "Shape_Leng": 0.072521105242599998, "Shape_Area": 0.00014315880583400001, "Luas_Ha": 176.63315755400001, "Kategori": "HD", "Nama_File": "HD_Sumatera Selatan_Muara Enim_Tanjung Agung_Muara Emil_Muara Emil" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 103.724765639922396, -3.912745499804942 ], [ 103.725217800161431, -3.916473390234728 ], [ 103.722324839419855, -3.91957721951303 ], [ 103.718152440183019, -3.920372009760399 ], [ 103.710219479945124, -3.920274089777365 ], [ 103.695997319620687, -3.912920009650691 ], [ 103.695860142431684, -3.91225273697421 ], [ 103.706280793823623, -3.915671728267625 ], [ 103.72058482842715, -3.912102864055896 ], [ 103.724074194368654, -3.908542843777184 ], [ 103.724176319581545, -3.908597939842991 ], [ 103.725080640059559, -3.909666060140523 ], [ 103.725210239560965, -3.910367970205641 ], [ 103.725648720212348, -3.911331149512876 ], [ 103.724765639922396, -3.912745499804942 ] ] ] ] } }
+]
+}

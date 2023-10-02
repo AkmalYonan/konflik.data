@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HD_Papua Barat_Manokwari_Manokwari Utara_Yoom II_Yoom II",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 879, "HD_ID": 920205.0, "NAMA_PROV": "Papua Barat", "NAMA_KAB": "Manokwari", "NAMA_KEC": "Manokwari Utara", "NAMA_DESA": "Yoom II", "NAMA_LPHD": "Yoom II", "NO_SK_HPHD": "Proses", "NO_SK_PAK": null, "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 0.0, "Shape_Leng": 0.045988430773900003, "Shape_Area": 0.000109057399707, "Luas_Ha": 134.25116847300001, "Kategori": "HD", "Nama_File": "HD_Papua Barat_Manokwari_Manokwari Utara_Yoom II_Yoom II" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 133.957260133748264, -0.749253391131049 ], [ 133.955596244071444, -0.756433784291687 ], [ 133.95440673957944, -0.756433367006252 ], [ 133.952621250770221, -0.757988367668986 ], [ 133.949523927187556, -0.754038093782981 ], [ 133.949033347910699, -0.75313255202559 ], [ 133.94987732747677, -0.744312799995669 ], [ 133.950206425386341, -0.744160261486854 ], [ 133.951858220980171, -0.74356917667609 ], [ 133.953340326195189, -0.743120091219168 ], [ 133.959779335348117, -0.740187245544917 ], [ 133.957260133748264, -0.749253391131049 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HD_Riau_Bengkalis_Siak Kecil_Sungai Linau_Sungai Linau",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 134, "HD_ID": 140302.0, "NAMA_PROV": "Riau", "NAMA_KAB": "Bengkalis", "NAMA_KEC": "Siak Kecil", "NAMA_DESA": "Sungai Linau", "NAMA_LPHD": "Sungai Linau", "NO_SK_HPHD": "Proses", "NO_SK_PAK": null, "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 0.0, "Shape_Leng": 0.33818264009799998, "Shape_Area": 0.0047553996383300004, "Luas_Ha": 5854.8630019900002, "Kategori": "HD", "Nama_File": "HD_Riau_Bengkalis_Siak Kecil_Sungai Linau_Sungai Linau" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 102.005766340044602, 1.205736582377426 ], [ 101.977534391598965, 1.202783892262858 ], [ 101.983076824336024, 1.225924024973835 ], [ 101.956923849456132, 1.225951609878962 ], [ 101.915507436019425, 1.286536238156941 ], [ 102.010259327805784, 1.272845029474581 ], [ 102.024571914961939, 1.247961007894219 ], [ 102.015576664731327, 1.233315259691551 ], [ 102.01990918735919, 1.226789825689934 ], [ 102.01985741698627, 1.226712921064518 ], [ 102.019924134990902, 1.226659991465453 ], [ 101.998171374709216, 1.215331787432092 ], [ 102.005803418193238, 1.205740459354786 ], [ 102.005766340044602, 1.205736582377426 ] ] ] ] } }
+]
+}

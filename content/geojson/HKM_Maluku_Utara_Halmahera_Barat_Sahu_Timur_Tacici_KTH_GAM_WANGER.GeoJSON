@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Maluku Utara_Halmahera Barat_Sahu Timur_Tacici_KTH GAM WANGER",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 2078, "HD_ID": 0.0, "NAMA_PROV": "Maluku Utara", "NAMA_KAB": "Halmahera Barat", "NAMA_KEC": "Sahu Timur", "NAMA_DESA": "Tacici", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": "SK. 74\/Menlhk-II\/2015", "NO_IUPHKM": "SK.1489\/MENLHK-PSKL\/PKPS\/PSL.0\/4\/2018", "NAMA_HKM": "KTH GAM WANGER", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 820102.0, "Shape_Leng": 0.045760436335400001, "Shape_Area": 0.000121719700157, "Luas_Ha": 149.86065264600001, "Kategori": "HKM", "Nama_File": "HKM_Maluku Utara_Halmahera Barat_Sahu Timur_Tacici_KTH GAM WANGER" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 127.5103348171981, 1.223627618719661 ], [ 127.505829152593378, 1.226057241548517 ], [ 127.505943617404114, 1.226241181685225 ], [ 127.513154608198647, 1.238174176197333 ], [ 127.520705481572804, 1.233990747674909 ], [ 127.513268680005694, 1.221842255815488 ], [ 127.513190359847272, 1.221710912528636 ], [ 127.512505949689853, 1.222074539008815 ], [ 127.51132419195801, 1.223020608714194 ], [ 127.510686365783272, 1.223461441992015 ], [ 127.5103348171981, 1.223627618719661 ] ] ] ] } }
+]
+}

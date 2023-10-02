@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+	input.error {  
+   		padding: 3px;  
+     	margin: 3px;  
+     	background-color:#FFFF99;
+		background-image:none;  
+     	border: 1px solid #c00;  
+		
+ 	}
+	
+	textarea.error {  
+   		padding: 3px;  
+     	margin: 3px;  
+     	background-color:#FFFF99;
+		background-image:none;  
+     	border: 1px solid #c00;  
+	}
+	
+	input[type=text].error {  
+   		padding: 3px;  
+     	margin: 3px;  
+     	background-color:#FFFF99;
+		background-image:none;  
+     	border: 1px solid #c00;  
+		
+ 	}
+
+	
+	select.error {  
+   		padding: 3px;  
+     	margin: 3px;  
+     	background-color: #ffc;  
+     	border: 1px solid #c00;  
+		background-image:none;  
+ 	}
+	
+	label.error {  
+		/*background: url("../../images/unchecked.gif") no-repeat;*/
+   		font: normal 11px tahoma; 
+		color:#CC0000;
+		font-style:italic;
+     	padding-left: 16px;
+		/*margin-left: .3em;*/
+		/*width:250px;*/
+		
+		vertical-align:middle;
+		height:20px;
+		/*float:left;*/
+		border:none;
+     	/*
+		background-color: #ffc;  
+     	border: 1px solid #c00;
+		*/
+		
+ 	} 
+	
+	/*
+	label.valid{
+		background: url("../../images/checked.gif") no-repeat;
+		padding-left: 0px;
+		margin-left: 0px;
+		width:16px;
+		height:16px;
+		display: block;
+		border:none;
+		float:none;	
+	}
+	*/
+	
+

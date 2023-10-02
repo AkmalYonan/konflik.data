@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HD_Kalimantan Utara_Nunukan_Sembakung_Tepian_Tepian",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 537, "HD_ID": 650302.0, "NAMA_PROV": "Kalimantan Utara", "NAMA_KAB": "Nunukan", "NAMA_KEC": "Sembakung", "NAMA_DESA": "Tepian", "NAMA_LPHD": "Tepian", "NO_SK_HPHD": "SK.6683\/MENLHK-PSKL\/PKPS.PSL.0\/12\/2017", "NO_SK_PAK": null, "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 0.0, "Shape_Leng": 0.068513896103900004, "Shape_Area": 8.2753901516799999e-05, "Luas_Ha": 102.092617257, "Kategori": "HD", "Nama_File": "HD_Kalimantan Utara_Nunukan_Sembakung_Tepian_Tepian" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 117.494339567217366, 3.838582980320325 ], [ 117.502479942595301, 3.808752375421818 ], [ 117.499888969700237, 3.808753886282886 ], [ 117.491237443053592, 3.839358512485433 ], [ 117.494339567217366, 3.838582980320325 ] ] ] ] } }
+]
+}

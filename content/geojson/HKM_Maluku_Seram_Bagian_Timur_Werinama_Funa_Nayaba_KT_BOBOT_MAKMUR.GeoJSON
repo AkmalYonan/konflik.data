@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Maluku_Seram Bagian Timur_Werinama_Funa Nayaba_KT BOBOT MAKMUR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 2037, "HD_ID": 0.0, "NAMA_PROV": "Maluku", "NAMA_KAB": "Seram Bagian Timur", "NAMA_KEC": "Werinama", "NAMA_DESA": "Funa Nayaba", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": "SK.526\/MenLHK\/Setjen\/PSL.0\/7\/2016", "NO_IUPHKM": "SK. 328\/MENLHK-PSKL\/PKPS\/PSL.0\/2\/2017", "NAMA_HKM": "KT BOBOT MAKMUR", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 810505.0, "Shape_Leng": 0.039528897001500002, "Shape_Area": 8.8320194338099996e-05, "Luas_Ha": 108.90757185, "Kategori": "HKM", "Nama_File": "HKM_Maluku_Seram Bagian Timur_Werinama_Funa Nayaba_KT BOBOT MAKMUR" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 130.11829623488336, -3.39482930053174 ], [ 130.105685090394672, -3.399677453051993 ], [ 130.103722035843361, -3.392985219092566 ], [ 130.105883863949202, -3.392189935117358 ], [ 130.10755621894441, -3.391574716100195 ], [ 130.115202934867625, -3.388761676310253 ], [ 130.11829623488336, -3.39482930053174 ] ] ] ] } }
+]
+}

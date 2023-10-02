@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HD_Kalimantan Tengah_Kapuas_Mantangai_Katunjung_Katunjung",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 408, "HD_ID": 620301.0, "NAMA_PROV": "Kalimantan Tengah", "NAMA_KAB": "Kapuas", "NAMA_KEC": "Mantangai", "NAMA_DESA": "Katunjung", "NAMA_LPHD": "Katunjung", "NO_SK_HPHD": "188.44\/402\/2015", "NO_SK_PAK": "SK.509\/Menhut-II\/2014", "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 0.0, "Shape_Leng": 0.29012107426200001, "Shape_Area": 0.0051806663226800003, "Luas_Ha": 6381.9671180200003, "Kategori": "HD", "Nama_File": "HD_Kalimantan Tengah_Kapuas_Mantangai_Katunjung_Katunjung" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 114.541626882374771, -2.232069877223012 ], [ 114.540157499868769, -2.29588311031722 ], [ 114.459131486528918, -2.295253373544313 ], [ 114.459761222402562, -2.231859964665603 ], [ 114.541626882374771, -2.232069877223012 ] ] ] ] } }
+]
+}

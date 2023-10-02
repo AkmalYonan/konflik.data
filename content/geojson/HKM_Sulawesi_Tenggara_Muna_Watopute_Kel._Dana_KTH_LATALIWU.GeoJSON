@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sulawesi Tenggara_Muna_Watopute_Kel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1861, "HD_ID": 0.0, "NAMA_PROV": "Sulawesi Tenggara", "NAMA_KAB": "Muna", "NAMA_KEC": "Watopute", "NAMA_DESA": "Kel. Dana", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK.3003\/MENLHK-PSKL\/PKPS\/PSL.0\/3\/2019", "NAMA_HKM": "KTH LATALIWU", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 740302.0, "Shape_Leng": 0.040868571415799998, "Shape_Area": 9.2486671393000002e-05, "Luas_Ha": 114.25111680800001, "Kategori": "HKM", "Nama_File": "HKM_Sulawesi Tenggara_Muna_Watopute_Kel. Dana_KTH LATALIWU" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 122.615541001416091, -4.815867999008901 ], [ 122.602231000959932, -4.819872999339395 ], [ 122.599743000439162, -4.816716000343092 ], [ 122.601320999464633, -4.811486001078038 ], [ 122.611770743025431, -4.811911790496708 ], [ 122.614917999665977, -4.812039998746911 ], [ 122.615541001416091, -4.815867999008901 ] ] ] ] } }
+]
+}

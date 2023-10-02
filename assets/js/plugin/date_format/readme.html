@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<table summary="Date Format mask metasequences" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Mask</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>d</td>
+      <td>Day of the month as digits; no leading zero for single-digit days.</td>
+    </tr>
+    <tr>
+      <td>dd</td>
+      <td>Day of the month as digits; leading zero for single-digit days.</td>
+    </tr>
+    <tr>
+      <td>ddd</td>
+      <td>Day of the week as a three-letter abbreviation.</td>
+    </tr>
+    <tr>
+      <td>dddd</td>
+      <td>Day of the week as its full name.</td>
+    </tr>
+    <tr>
+      <td>m</td>
+      <td>Month as digits; no leading zero for single-digit months.</td>
+    </tr>
+    <tr>
+      <td>mm</td>
+      <td>Month as digits; leading zero for single-digit months.</td>
+    </tr>
+    <tr>
+      <td>mmm</td>
+      <td>Month as a three-letter abbreviation.</td>
+    </tr>
+    <tr>
+      <td>mmmm</td>
+      <td>Month as its full name.</td>
+    </tr>
+    <tr>
+      <td>yy</td>
+      <td>Year as last two digits; leading zero for years less than 10.</td>
+    </tr>
+    <tr>
+      <td>yyyy</td>
+      <td>Year represented by four digits.</td>
+    </tr>
+    <tr>
+      <td>h</td>
+      <td>Hours; no leading zero for single-digit hours (12-hour clock).</td>
+    </tr>
+    <tr>
+      <td>hh</td>
+      <td>Hours; leading zero for single-digit hours (12-hour clock).</td>
+    </tr>
+    <tr>
+      <td>H</td>
+      <td>Hours; no leading zero for single-digit hours (24-hour clock).</td>
+    </tr>
+    <tr>
+      <td>HH</td>
+      <td>Hours; leading zero for single-digit hours (24-hour clock).</td>
+    </tr>
+    <tr>
+      <td>M</td>
+      <td>Minutes; no leading zero for single-digit minutes.<br />
+        Uppercase M unlike CF timeFormat's m to avoid conflict with months.</td>
+    </tr>
+    <tr>
+      <td>MM</td>
+      <td>Minutes; leading zero for single-digit minutes.<br />
+        Uppercase MM unlike CF timeFormat's mm to avoid conflict with months.</td>
+    </tr>
+    <tr>
+      <td>s</td>
+      <td>Seconds; no leading zero for single-digit seconds.</td>
+    </tr>
+    <tr>
+      <td>ss</td>
+      <td>Seconds; leading zero for single-digit seconds.</td>
+    </tr>
+    <tr>
+      <td>l <em>or</em> L</td>
+      <td>Milliseconds. l gives 3 digits. L gives 2 digits.</td>
+    </tr>
+    <tr>
+      <td>t</td>
+      <td>Lowercase, single-character time marker string: <em>a</em> or <em>p</em>.<br />
+        No equivalent in CF.</td>
+    </tr>
+    <tr>
+      <td>tt</td>
+      <td>Lowercase, two-character time marker string: <em>am</em> or <em>pm</em>.<br />
+        No equivalent in CF.</td>
+    </tr>
+    <tr>
+      <td>T</td>
+      <td>Uppercase, single-character time marker string: <em>A</em> or <em>P</em>.<br />
+        Uppercase T unlike CF's t to allow for user-specified casing.</td>
+    </tr>
+    <tr>
+      <td>TT</td>
+      <td>Uppercase, two-character time marker string: <em>AM</em> or <em>PM</em>.<br />
+        Uppercase TT unlike CF's tt to allow for user-specified casing.</td>
+    </tr>
+    <tr>
+      <td>Z</td>
+      <td>US timezone abbreviation, e.g. <em>EST</em> or <em>MDT</em>. With non-US timezones or in the Opera browser, the GMT/UTC offset is returned, e.g. <em>GMT-0500</em><br />
+        No equivalent in CF.</td>
+    </tr>
+    <tr>
+      <td>o</td>
+      <td>GMT/UTC timezone offset, e.g. <em>-0500</em> or <em>+0230</em>.<br />
+        No equivalent in CF.</td>
+    </tr>
+    <tr>
+      <td>S</td>
+      <td>The date's ordinal suffix (<em>st</em>, <em>nd</em>, <em>rd</em>, or <em>th</em>). Works well with d.<br />
+        No equivalent in CF.</td>
+    </tr>
+    <tr>
+      <td>'…' <em>or</em> &quot;…&quot;</td>
+      <td>Literal character sequence. Surrounding quotes are removed.<br />
+        No equivalent in CF.</td>
+    </tr>
+    <tr>
+      <td>UTC:</td>
+      <td>Must be the first four characters of the mask. Converts the date   from local time to UTC/GMT/Zulu time before applying the mask. The   &quot;UTC:&quot; prefix is removed.<br />
+        No equivalent in CF.</td>
+    </tr>
+  </tbody>
+</table>
+<p>And here are the named masks provided by default (you can easily change these or add your own):</p>
+<table summary="Date Format named masks" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Mask</th>
+      <th>Example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>default</td>
+      <td>ddd mmm dd yyyy HH:MM:ss</td>
+      <td>Sat Jun 09 2007 17:46:21</td>
+    </tr>
+    <tr>
+      <td>shortDate</td>
+      <td>m/d/yy</td>
+      <td>6/9/07</td>
+    </tr>
+    <tr>
+      <td>mediumDate</td>
+      <td>mmm d, yyyy</td>
+      <td>Jun 9, 2007</td>
+    </tr>
+    <tr>
+      <td>longDate</td>
+      <td>mmmm d, yyyy</td>
+      <td>June 9, 2007</td>
+    </tr>
+    <tr>
+      <td>fullDate</td>
+      <td>dddd, mmmm d, yyyy</td>
+      <td>Saturday, June 9, 2007</td>
+    </tr>
+    <tr>
+      <td>shortTime</td>
+      <td>h:MM TT</td>
+      <td>5:46 PM</td>
+    </tr>
+    <tr>
+      <td>mediumTime</td>
+      <td>h:MM:ss TT</td>
+      <td>5:46:21 PM</td>
+    </tr>
+    <tr>
+      <td>longTime</td>
+      <td>h:MM:ss TT Z</td>
+      <td>5:46:21 PM EST</td>
+    </tr>
+    <tr>
+      <td>isoDate</td>
+      <td>yyyy-mm-dd</td>
+      <td>2007-06-09</td>
+    </tr>
+    <tr>
+      <td>isoTime</td>
+      <td>HH:MM:ss</td>
+      <td>17:46:21</td>
+    </tr>
+    <tr>
+      <td>isoDateTime</td>
+      <td>yyyy-mm-dd'T'HH:MM:ss</td>
+      <td>2007-06-09T17:46:21</td>
+    </tr>
+    <tr>
+      <td>isoUtcDateTime</td>
+      <td>UTC:yyyy-mm-dd'T'HH:MM:ss'Z'</td>
+      <td>2007-06-09T22:46:21Z</td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>

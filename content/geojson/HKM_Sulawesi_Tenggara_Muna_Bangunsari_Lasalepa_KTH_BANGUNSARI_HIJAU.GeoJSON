@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sulawesi Tenggara_Muna_Bangunsari_Lasalepa_KTH BANGUNSARI HIJAU",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1860, "HD_ID": 0.0, "NAMA_PROV": "Sulawesi Tenggara", "NAMA_KAB": "Muna", "NAMA_KEC": "Bangunsari", "NAMA_DESA": "Lasalepa", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK. 9057\/MENLHK-PSKL\/PKPS\/PSL.0\/12\/2018", "NAMA_HKM": "KTH BANGUNSARI HIJAU", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 740301.0, "Shape_Leng": 0.045221127874800003, "Shape_Area": 0.00012383409207899999, "Luas_Ha": 152.96178192599999, "Kategori": "HKM", "Nama_File": "HKM_Sulawesi Tenggara_Muna_Bangunsari_Lasalepa_KTH BANGUNSARI HIJAU" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 122.662725625087546, -4.748916805566068 ], [ 122.669359578481817, -4.747438315625743 ], [ 122.670594464562896, -4.752819439665359 ], [ 122.672395436100601, -4.760329134881601 ], [ 122.671815200710967, -4.760471603681538 ], [ 122.669216240037485, -4.761109738323739 ], [ 122.664118754077322, -4.762261358874582 ], [ 122.663380270383186, -4.762428193006656 ], [ 122.660196958123151, -4.749480363927603 ], [ 122.662725625087546, -4.748916805566068 ] ] ] ] } }
+]
+}

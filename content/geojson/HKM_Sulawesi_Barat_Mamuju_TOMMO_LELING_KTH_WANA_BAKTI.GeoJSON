@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sulawesi Barat_Mamuju_TOMMO_LELING_KTH WANA BAKTI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1977, "HD_ID": 0.0, "NAMA_PROV": "Sulawesi Barat", "NAMA_KAB": "Mamuju", "NAMA_KEC": "TOMMO", "NAMA_DESA": "LELING", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "Proses", "NAMA_HKM": "KTH WANA BAKTI", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 760210.0, "Shape_Leng": 0.039099109322899998, "Shape_Area": 8.3770085794199997e-05, "Luas_Ha": 103.19277280599999, "Kategori": "HKM", "Nama_File": "HKM_Sulawesi Barat_Mamuju_TOMMO_LELING_KTH WANA BAKTI" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 119.483152677753992, -2.239998570177818 ], [ 119.478416667994907, -2.240008306238281 ], [ 119.478348959836694, -2.231630502645544 ], [ 119.483494805041232, -2.231721319783048 ], [ 119.490694472472001, -2.231766727452452 ], [ 119.490717043656673, -2.236670813307342 ], [ 119.485751753540626, -2.237329231258968 ], [ 119.483152677753992, -2.239998570177818 ] ] ] ] } }
+]
+}

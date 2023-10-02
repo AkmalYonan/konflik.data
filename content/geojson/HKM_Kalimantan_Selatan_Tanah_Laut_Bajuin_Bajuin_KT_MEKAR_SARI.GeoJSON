@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Kalimantan Selatan_Tanah Laut_Bajuin_Bajuin_KT MEKAR SARI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1579, "HD_ID": 0.0, "NAMA_PROV": "Kalimantan Selatan", "NAMA_KAB": "Tanah Laut", "NAMA_KEC": "Bajuin", "NAMA_DESA": "Bajuin", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": "SK. 134\/MenLHK\/Setjen\/PSL.0\/2\/2016", "NO_IUPHKM": "SK.4894\/MENLHK\/PSKL\/PKPS\/PSL.0\/9\/2017", "NAMA_HKM": "KT MEKAR SARI", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 630103.0, "Shape_Leng": 0.038905683171800001, "Shape_Area": 8.5521368257399994e-05, "Luas_Ha": 105.50170302, "Kategori": "HKM", "Nama_File": "HKM_Kalimantan Selatan_Tanah Laut_Bajuin_Bajuin_KT MEKAR SARI" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 114.844658764390488, -3.788021216905577 ], [ 114.836723313030575, -3.788037843571601 ], [ 114.837229286002753, -3.785834418223772 ], [ 114.83746785006133, -3.783511209474682 ], [ 114.837889247191015, -3.779407427610636 ], [ 114.837907721064539, -3.779227518235359 ], [ 114.838082667980757, -3.775928176344223 ], [ 114.844491542650644, -3.775672498187191 ], [ 114.844658764390488, -3.788021216905577 ] ] ] ] } }
+]
+}

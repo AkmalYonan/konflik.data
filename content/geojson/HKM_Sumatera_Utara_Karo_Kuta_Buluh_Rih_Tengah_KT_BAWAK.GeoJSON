@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sumatera Utara_Karo_Kuta Buluh_Rih Tengah_KT BAWAK",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 952, "HD_ID": 0.0, "NAMA_PROV": "Sumatera Utara", "NAMA_KAB": "Karo", "NAMA_KEC": "Kuta Buluh", "NAMA_DESA": "Rih Tengah", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK. 5324\/MENLHK-PSKL\/PKPS\/PSL.0\/8\/2018", "NAMA_HKM": "KT BAWAK", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 120603.0, "Shape_Leng": 0.103896918699, "Shape_Area": 0.00065536177937299998, "Luas_Ha": 808.006611099, "Kategori": "HKM", "Nama_File": "HKM_Sumatera Utara_Karo_Kuta Buluh_Rih Tengah_KT BAWAK" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 98.200341717995968, 3.236555581375001 ], [ 98.179354871630096, 3.236460402525609 ], [ 98.178188935670903, 3.260492959482519 ], [ 98.190175470421707, 3.261028336688412 ], [ 98.198087178780327, 3.266471353869917 ], [ 98.206415292132078, 3.264597529152695 ], [ 98.202578411064906, 3.244645748502535 ], [ 98.200341717995968, 3.236555581375001 ] ] ] ] } }
+]
+}

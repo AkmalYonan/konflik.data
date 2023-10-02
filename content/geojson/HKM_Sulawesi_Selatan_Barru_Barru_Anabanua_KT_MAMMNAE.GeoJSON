@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sulawesi Selatan_Barru_Barru_Anabanua_KT MAMMNAE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1768, "HD_ID": 0.0, "NAMA_PROV": "Sulawesi Selatan", "NAMA_KAB": "Barru", "NAMA_KEC": "Barru", "NAMA_DESA": "Anabanua", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": "SK. 185\/MenLHK-II\/2015", "NO_IUPHKM": "SK.6894\/MENLHK-PSKL\/PKPS\/PSL.0\/12\/2017", "NAMA_HKM": "KT MAMMNAE", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 731106.0, "Shape_Leng": 0.040409347436100002, "Shape_Area": 8.2467762050799994e-05, "Luas_Ha": 101.826987956, "Kategori": "HKM", "Nama_File": "HKM_Sulawesi Selatan_Barru_Barru_Anabanua_KT MAMMNAE" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 119.749550687913938, -4.490305738119275 ], [ 119.748661980565998, -4.492183546833189 ], [ 119.745703174162259, -4.490913188792604 ], [ 119.740573048207693, -4.495102239876417 ], [ 119.735885977755743, -4.495464164839291 ], [ 119.733989708658214, -4.492927354513768 ], [ 119.734190583928353, -4.490573940235095 ], [ 119.736238112698857, -4.487678030616564 ], [ 119.739801848076922, -4.487626393343305 ], [ 119.743996059470646, -4.487993162954069 ], [ 119.748436941411796, -4.488072068571057 ], [ 119.749550687913938, -4.490305738119275 ] ] ] ] } }
+]
+}

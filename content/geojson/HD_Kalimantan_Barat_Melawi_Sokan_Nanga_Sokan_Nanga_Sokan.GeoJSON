@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HD_Kalimantan Barat_Melawi_Sokan_Nanga Sokan_Nanga Sokan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 364, "HD_ID": 611012.0, "NAMA_PROV": "Kalimantan Barat", "NAMA_KAB": "Melawi", "NAMA_KEC": "Sokan", "NAMA_DESA": "Nanga Sokan", "NAMA_LPHD": "Nanga Sokan", "NO_SK_HPHD": "SK. 9792\/MENLHK-PSKL\/PKPS\/PSL.0\/11\/2019", "NO_SK_PAK": null, "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 0.0, "Shape_Leng": 0.064758040328000005, "Shape_Area": 0.000158720507865, "Luas_Ha": 195.39471782300001, "Kategori": "HD", "Nama_File": "HD_Kalimantan Barat_Melawi_Sokan_Nanga Sokan_Nanga Sokan" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 111.563125609959002, -0.900632798864535 ], [ 111.559661864803275, -0.902565299848675 ], [ 111.554140208204103, -0.90440504565629 ], [ 111.541641234355552, -0.905288875081453 ], [ 111.533079290976559, -0.90611004963904 ], [ 111.535985251418253, -0.903729898515962 ], [ 111.539126751498429, -0.90093059497093 ], [ 111.539274305065192, -0.900799114087818 ], [ 111.541369988933923, -0.898982018605238 ], [ 111.541877747060425, -0.898817599152835 ], [ 111.550878200768409, -0.896520293576657 ], [ 111.554893493839757, -0.896952688515739 ], [ 111.558006286660884, -0.89798176294795 ], [ 111.563125609959002, -0.900632798864535 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sulawesi Utara_Bolaang Mongondow Selatan_Pinolosian_Mataindo Utara_KTH SINAR PELANGI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1659, "HD_ID": 0.0, "NAMA_PROV": "Sulawesi Utara", "NAMA_KAB": "Bolaang Mongondow Selatan", "NAMA_KEC": "Pinolosian", "NAMA_DESA": "Mataindo Utara", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "Proses", "NAMA_HKM": "KTH SINAR PELANGI", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 711104.0, "Shape_Leng": 0.050003002379499999, "Shape_Area": 0.000104662494115, "Luas_Ha": 128.83389233099999, "Kategori": "HKM", "Nama_File": "HKM_Sulawesi Utara_Bolaang Mongondow Selatan_Pinolosian_Mataindo Utara_KTH SINAR PELANGI" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 124.224341745775064, 0.448398717626787 ], [ 124.218026308867138, 0.442140686243704 ], [ 124.218026288182728, 0.442140836430497 ], [ 124.216412462864923, 0.45372571147243 ], [ 124.216416780510031, 0.453732103853554 ], [ 124.221430337240349, 0.461155277094406 ], [ 124.22375535452602, 0.464597745189849 ], [ 124.223779273794548, 0.464633160491985 ], [ 124.224361386069177, 0.448418179855139 ], [ 124.224356400227748, 0.448413238979867 ], [ 124.224341745775064, 0.448398717626787 ] ] ] ] } }
+]
+}

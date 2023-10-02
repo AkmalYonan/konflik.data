@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HD_Sulawesi Selatan_Enrekang_Masalle_Buntu Sarong_Buntu Sarong",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 636, "HD_ID": 731606.0, "NAMA_PROV": "Sulawesi Selatan", "NAMA_KAB": "Enrekang", "NAMA_KEC": "Masalle", "NAMA_DESA": "Buntu Sarong", "NAMA_LPHD": "Buntu Sarong", "NO_SK_HPHD": "SK. 3155\/MENLHK-PSKL\/PKPS\/PSL.0\/5\/2018", "NO_SK_PAK": "SK.699\/Menhut-II\/2014", "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 0.0, "Shape_Leng": 0.041401767286099997, "Shape_Area": 8.7975572402900005e-05, "Luas_Ha": 108.47602331, "Kategori": "HD", "Nama_File": "HD_Sulawesi Selatan_Enrekang_Masalle_Buntu Sarong_Buntu Sarong" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 119.75970518314773, -3.344081035911017 ], [ 119.759622618189383, -3.344100297590614 ], [ 119.758704005685331, -3.342266768796321 ], [ 119.757156028727763, -3.339177046283623 ], [ 119.757165013854319, -3.339099678507296 ], [ 119.757664428070939, -3.334799392977573 ], [ 119.756501353754516, -3.330052793701441 ], [ 119.757873577103965, -3.329392464690443 ], [ 119.760351323554801, -3.32820014082381 ], [ 119.766253710840147, -3.342553312585267 ], [ 119.75970518314773, -3.344081035911017 ] ] ] ] } }
+]
+}

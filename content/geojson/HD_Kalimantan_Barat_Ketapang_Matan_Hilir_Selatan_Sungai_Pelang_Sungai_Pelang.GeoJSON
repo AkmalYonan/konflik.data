@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HD_Kalimantan Barat_Ketapang_Matan Hilir Selatan_Sungai Pelang_Sungai Pelang",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 303, "HD_ID": 610412.0, "NAMA_PROV": "Kalimantan Barat", "NAMA_KAB": "Ketapang", "NAMA_KEC": "Matan Hilir Selatan", "NAMA_DESA": "Sungai Pelang", "NAMA_LPHD": "Sungai Pelang", "NO_SK_HPHD": "SK.6688\/MENLHK-PSKL\/PKPS\/PSL.0\/12\/2017", "NO_SK_PAK": "SK.494\/Menhut-II\/2011", "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 0.0, "Shape_Leng": 0.184783833526, "Shape_Area": 0.000438851375008, "Luas_Ha": 540.4676541, "Kategori": "HD", "Nama_File": "HD_Kalimantan Barat_Ketapang_Matan Hilir Selatan_Sungai Pelang_Sungai Pelang" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 110.288203379582342, -1.831352748730296 ], [ 110.292515066717044, -1.8361491047973 ], [ 110.291600799737182, -1.83614910659594 ], [ 110.240384312086405, -1.8361491047973 ], [ 110.234051291633875, -1.842748778733096 ], [ 110.210625994693942, -1.854198221270849 ], [ 110.210319132521988, -1.854348204805774 ], [ 110.212731573803126, -1.842433498007495 ], [ 110.212788360594402, -1.841051555684714 ], [ 110.223891668465797, -1.837934547741156 ], [ 110.229726430330572, -1.836527954101769 ], [ 110.234951280976873, -1.834859283628987 ], [ 110.24030087298695, -1.832943997467453 ], [ 110.241990816922737, -1.832709879657159 ], [ 110.253183626223461, -1.833266308193515 ], [ 110.269362744595071, -1.833510519095114 ], [ 110.281183969564609, -1.83040096383337 ], [ 110.288203379582342, -1.831352748730296 ] ] ] ] } }
+]
+}

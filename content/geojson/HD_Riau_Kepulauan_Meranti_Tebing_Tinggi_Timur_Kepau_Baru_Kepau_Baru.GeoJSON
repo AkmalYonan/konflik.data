@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HD_Riau_Kepulauan Meranti_Tebing Tinggi Timur_Kepau Baru_Kepau Baru",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 154, "HD_ID": 141006.0, "NAMA_PROV": "Riau", "NAMA_KAB": "Kepulauan Meranti", "NAMA_KEC": "Tebing Tinggi Timur", "NAMA_DESA": "Kepau Baru", "NAMA_LPHD": "Kepau Baru", "NO_SK_HPHD": "SK.6721\/MENLHK-PSKL\/PSL.0\/12\/2016", "NO_SK_PAK": "SK.6721\/MENLHK-PSKL\/PSL.0\/12\/2016", "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 0.0, "Shape_Leng": 0.16147645725099999, "Shape_Area": 0.00071427093431300004, "Luas_Ha": 879.29498868400003, "Kategori": "HD", "Nama_File": "HD_Riau_Kepulauan Meranti_Tebing Tinggi Timur_Kepau Baru_Kepau Baru" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 102.938709789924928, 0.818934186363663 ], [ 102.938704072035364, 0.81320882432783 ], [ 102.89404523120254, 0.831351026928417 ], [ 102.867963455649033, 0.841946484942355 ], [ 102.912354057493815, 0.841972379122069 ], [ 102.912690014532586, 0.841678718098422 ], [ 102.938709789924928, 0.818934186363663 ] ] ] ] } }
+]
+}

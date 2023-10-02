@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Kalimantan Tengah_Kota Palangkaraya_Jekan Raya_Bukit Tunggal_KTH KERENG MAHAGA LEWU",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1577, "HD_ID": 0.0, "NAMA_PROV": "Kalimantan Tengah", "NAMA_KAB": "Kota Palangkaraya", "NAMA_KEC": "Jekan Raya", "NAMA_DESA": "Bukit Tunggal", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK. 3156\/MENLHK-PSKL\/PKPS\/PSL.0\/5\/2018", "NAMA_HKM": "KTH KERENG MAHAGA LEWU", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 627103.0, "Shape_Leng": 0.069830714362599994, "Shape_Area": 0.000251140828527, "Luas_Ha": 309.36363598700001, "Kategori": "HKM", "Nama_File": "HKM_Kalimantan Tengah_Kota Palangkaraya_Jekan Raya_Bukit Tunggal_KTH KERENG MAHAGA LEWU" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 113.787010468658309, -2.21686242506081 ], [ 113.787034310585, -2.216871781607381 ], [ 113.771258941946712, -2.216775794267448 ], [ 113.767396417610598, -2.210948147838678 ], [ 113.772208940790051, -2.207825128826585 ], [ 113.768984709376923, -2.203046358102881 ], [ 113.768925347826553, -2.202856399703023 ], [ 113.779241318132335, -2.195542405957212 ], [ 113.787010468658309, -2.21686242506081 ] ] ] ] } }
+]
+}

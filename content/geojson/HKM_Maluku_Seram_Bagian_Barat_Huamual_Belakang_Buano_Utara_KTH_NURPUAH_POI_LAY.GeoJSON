@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Maluku_Seram Bagian Barat_Huamual Belakang_Buano Utara_KTH NURPUAH POI LAY",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 2057, "HD_ID": 0.0, "NAMA_PROV": "Maluku", "NAMA_KAB": "Seram Bagian Barat", "NAMA_KEC": "Huamual Belakang", "NAMA_DESA": "Buano Utara", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK. 9051\/MENLHK-PSKL\/PKPS\/PSL.0\/12\/2018", "NAMA_HKM": "KTH NURPUAH POI LAY", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 810619.0, "Shape_Leng": 0.044890543999100002, "Shape_Area": 9.0666538161900001e-05, "Luas_Ha": 111.752070567, "Kategori": "HKM", "Nama_File": "HKM_Maluku_Seram Bagian Barat_Huamual Belakang_Buano Utara_KTH NURPUAH POI LAY" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 127.946778549090823, -2.9439357071671 ], [ 127.932878916229015, -2.954666898058861 ], [ 127.928735520128271, -2.95186779416332 ], [ 127.93503325388167, -2.945843892281744 ], [ 127.937862255738537, -2.943908243670478 ], [ 127.938285378667388, -2.943618735716029 ], [ 127.9428946964332, -2.941727052261626 ], [ 127.943322719767821, -2.941551596329077 ], [ 127.943343621810754, -2.941543028487899 ], [ 127.946791355436744, -2.943925820020524 ], [ 127.946778549090823, -2.9439357071671 ] ] ] ] } }
+]
+}

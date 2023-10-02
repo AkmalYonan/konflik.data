@@ -1,0 +1,2 @@
+<? //loadFunction("validate");?>
+

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HTR_Kalimantan Tengah_Kapuas_Kapuas Hulu_Hurung Tapang_KOPERASI BETANG TELAWANG",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 2264, "HD_ID": 0.0, "NAMA_PROV": "Kalimantan Tengah", "NAMA_KAB": "Kapuas", "NAMA_KEC": "Kapuas Hulu", "NAMA_DESA": "Hurung Tapang", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": "SK. 6795\/MENLHK PSKL\/PKPS\/PSL.0\/12\/2017", "NAMA_HTR": "KOPERASI BETANG TELAWANG", "HTR_ID": 620303.0, "HKM_ID": 0.0, "Shape_Leng": 0.101898919568, "Shape_Area": 0.00058418809748899997, "Luas_Ha": 719.15752015600003, "Kategori": "HTR", "Nama_File": "HTR_Kalimantan Tengah_Kapuas_Kapuas Hulu_Hurung Tapang_KOPERASI BETANG TELAWANG" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 113.872110462128148, -0.844097551560708 ], [ 113.853788612754329, -0.844216524672845 ], [ 113.845936390951692, -0.812688666148972 ], [ 113.86461515966198, -0.812569693036835 ], [ 113.872110462128148, -0.844097551560708 ] ] ] ] } }
+]
+}

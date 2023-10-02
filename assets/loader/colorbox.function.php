@@ -1,0 +1,2 @@
+<link media="screen" rel="stylesheet" href="<?=base_url()?>assets/js/plugin/jquery_colorbox/colorbox.css" />
+<script src="<?=base_url()?>assets/js/plugin/jquery_colorbox/jquery.colorbox.min.js"></script>

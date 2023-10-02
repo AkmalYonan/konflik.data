@@ -1,0 +1,5 @@
+F CACHE_AP.PHP;1                                                                                                                                                                                                  	Cache_apc.php
+F CACHE_DU.PHP;1                                                                                                                                                                                                  	Cache_dummy.php
+F CACHE_FI.PHP;1                                                                                                                                                                                                  	Cache_file.php
+F CACHE_ME.PHP;1                                                                                                                                                                                                  	Cache_memcached.php
+D _NOTES                                                                                                                                                                                                          	_notes

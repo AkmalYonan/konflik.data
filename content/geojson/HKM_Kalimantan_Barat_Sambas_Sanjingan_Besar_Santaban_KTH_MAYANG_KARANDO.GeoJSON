@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Kalimantan Barat_Sambas_Sanjingan Besar_Santaban_KTH MAYANG KARANDO",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1491, "HD_ID": 0.0, "NAMA_PROV": "Kalimantan Barat", "NAMA_KAB": "Sambas", "NAMA_KEC": "Sanjingan Besar", "NAMA_DESA": "Santaban", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK. 9026\/MENLHK-PSKL\/PKPS\/PSL.0\/12\/2018", "NAMA_HKM": "KTH MAYANG KARANDO", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 610104.0, "Shape_Leng": 0.045107067166500002, "Shape_Area": 0.000117939884074, "Luas_Ha": 145.23248179300001, "Kategori": "HKM", "Nama_File": "HKM_Kalimantan Barat_Sambas_Sanjingan Besar_Santaban_KTH MAYANG KARANDO" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 109.478605866667465, 1.624706584041689 ], [ 109.479124306941287, 1.623343978042215 ], [ 109.47184113116333, 1.623738543898753 ], [ 109.470509457345656, 1.623842818491312 ], [ 109.463355893659639, 1.624140777375032 ], [ 109.466633054671775, 1.633126837433622 ], [ 109.476052327153241, 1.633199453192276 ], [ 109.47739995044742, 1.62898574719452 ], [ 109.478041587049688, 1.626314188748836 ], [ 109.478605866667465, 1.624706584041689 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HD_Papua_Lanny Jaya_Tiomneri_Panalo_Panalo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 874, "HD_ID": 912302.0, "NAMA_PROV": "Papua", "NAMA_KAB": "Lanny Jaya", "NAMA_KEC": "Tiomneri", "NAMA_DESA": "Panalo", "NAMA_LPHD": "Panalo", "NO_SK_HPHD": "Proses", "NO_SK_PAK": null, "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 0.0, "Shape_Leng": 0.071322396090599996, "Shape_Area": 0.00033394302493099998, "Luas_Ha": 412.01499157199999, "Kategori": "HD", "Nama_File": "HD_Papua_Lanny Jaya_Tiomneri_Panalo_Panalo" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 138.368750402109413, -3.898824347065897 ], [ 138.363604079364791, -3.900099391473702 ], [ 138.355187899901694, -3.896414462557345 ], [ 138.349553160749792, -3.890268201616152 ], [ 138.349544985912416, -3.89021093188893 ], [ 138.349187179844535, -3.887704193993329 ], [ 138.363514252380924, -3.880743738132935 ], [ 138.369698896387035, -3.883190135116593 ], [ 138.376953438650389, -3.886059748558523 ], [ 138.369793693024576, -3.898624720054727 ], [ 138.368750402109413, -3.898824347065897 ] ] ] ] } }
+]
+}

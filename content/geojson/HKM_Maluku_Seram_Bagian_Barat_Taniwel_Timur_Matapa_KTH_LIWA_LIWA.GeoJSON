@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Maluku_Seram Bagian Barat_Taniwel Timur_Matapa_KTH LIWA LIWA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 2050, "HD_ID": 0.0, "NAMA_PROV": "Maluku", "NAMA_KAB": "Seram Bagian Barat", "NAMA_KEC": "Taniwel Timur", "NAMA_DESA": "Matapa", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK. 7944\/MENLHK-PSKL\/PKPS\/PSL.0\/11\/2018", "NAMA_HKM": "KTH LIWA LIWA", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 810612.0, "Shape_Leng": 0.065641179253000004, "Shape_Area": 0.000115541647098, "Luas_Ha": 142.40782325000001, "Kategori": "HKM", "Nama_File": "HKM_Maluku_Seram Bagian Barat_Taniwel Timur_Matapa_KTH LIWA LIWA" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 128.678353947976348, -2.923024310323626 ], [ 128.67353646143863, -2.923299683633445 ], [ 128.669979294708696, -2.922753908466063 ], [ 128.671837945165066, -2.921632631940383 ], [ 128.675725708074992, -2.91003346307383 ], [ 128.679872939784445, -2.902296481297526 ], [ 128.6815641814419, -2.90074944503084 ], [ 128.682223068839562, -2.898896572718627 ], [ 128.682375827682336, -2.896709133719526 ], [ 128.683084068075345, -2.89680151297938 ], [ 128.683326327448071, -2.89687801650723 ], [ 128.678353947976348, -2.923024310323626 ] ] ] ] } }
+]
+}

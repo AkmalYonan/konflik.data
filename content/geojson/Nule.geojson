@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Nule",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "PROVINSI": "NTT", "KABUPATEN": "Alor", "KECAMATAN": "Pantar Timur", "DESA": "Nulle", "NAMA": null, "SKEMA": "HKM", "SK": null, "FUNGSI": null, "KOMUNITAS": null, "WIL_ADAT": null, "TAHAPAN": null, "LUAS": 1493.3066314099999, "MITRA_PEND": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 124.20919, -8.39481, 0.0 ], [ 124.19997, -8.41056, 0.0 ], [ 124.18764, -8.39136, 0.0 ], [ 124.1855, -8.38658, 0.0 ], [ 124.20269, -8.36344, 0.0 ], [ 124.20931, -8.35878, 0.0 ], [ 124.20931, -8.34983, 0.0 ], [ 124.21978, -8.33942, 0.0 ], [ 124.22531, -8.34764, 0.0 ], [ 124.22964, -8.35447, 0.0 ], [ 124.21814, -8.37139, 0.0 ], [ 124.20919, -8.39481, 0.0 ] ] ] } }
+]
+}

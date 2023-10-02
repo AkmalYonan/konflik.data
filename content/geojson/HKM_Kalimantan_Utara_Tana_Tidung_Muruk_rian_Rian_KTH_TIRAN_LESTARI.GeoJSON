@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Kalimantan Utara_Tana Tidung_Muruk rian_Rian_KTH TIRAN LESTARI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1619, "HD_ID": 0.0, "NAMA_PROV": "Kalimantan Utara", "NAMA_KAB": "Tana Tidung", "NAMA_KEC": "Muruk rian", "NAMA_DESA": "Rian", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK. 7825\/MENLHK-PSKL\/PKPS\/PSL.0\/10\/2018", "NAMA_HKM": "KTH TIRAN LESTARI", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 650402.0, "Shape_Leng": 0.029225376870599999, "Shape_Area": 4.9444927716600003e-05, "Luas_Ha": 60.982002496, "Kategori": "HKM", "Nama_File": "HKM_Kalimantan Utara_Tana Tidung_Muruk rian_Rian_KTH TIRAN LESTARI" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 116.832339606887444, 3.565131205141029 ], [ 116.82699781199949, 3.564983272060431 ], [ 116.827760001822639, 3.573611937041335 ], [ 116.833570951438332, 3.574404351279838 ], [ 116.832339606887444, 3.565131205141029 ] ] ] ] } }
+]
+}

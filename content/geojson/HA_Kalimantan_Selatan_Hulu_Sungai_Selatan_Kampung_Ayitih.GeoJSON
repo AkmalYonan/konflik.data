@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HA_Kalimantan Selatan_Hulu Sungai Selatan_Kampung Ayitih",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 406, "SK_MENLHK": null, "WIL_ADAT_1": "Kampung Ayitih", "KAB_1": "Hulu Sungai Selatan", "PROV_1": "Kalimantan Selatan", "REGION_1": "Kalimantan", "HUTAN_AD_1": "Potensi Hutan Adat", "STAT_BRWA": "Teregistrasi", "TIPE_KEBIJ": "Pengaturan", "KEBIJAKAN": "SK Panitia MHA", "PERDA": null, "TAHUN_PERD": 0, "SK": "SK No. 140 90 411.43 Tahun 2019 tentang pembentukan panitia", "TAHUN_SK": 2019, "Shape_Leng": 0.0018925924202399999, "Shape_Area": 1.05573036116e-07, "Luas": 0.130110069592, "ID": 167, "Nama_File": "HA_Kalimantan Selatan_Hulu Sungai Selatan_Kampung Ayitih" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 115.507278488911197, -2.817913836554283, 0.000142000004416 ], [ 115.506759849887203, -2.818562442902362, 0.000041999999667 ], [ 115.507013810339117, -2.817891781580386, 0.000041999999667 ], [ 115.50701648941947, -2.817885694069503, 0.000041999999667 ], [ 115.507017251145271, -2.81788466434574, 0.000041999999667 ], [ 115.50710187645052, -2.817794305862492, 0.000041999999667 ], [ 115.507278488911197, -2.817913836554283, 0.000142000004416 ] ] ] ] } }
+]
+}

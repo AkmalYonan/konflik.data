@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Maluku Utara_Kota Ternate_Pulau Batang Dua_Bido_KT BIDO JAYA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 2094, "HD_ID": 0.0, "NAMA_PROV": "Maluku Utara", "NAMA_KAB": "Kota Ternate", "NAMA_KEC": "Pulau Batang Dua", "NAMA_DESA": "Bido", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK. 10420\/MENLHK-PSKL\/PKPS\/PSL.0\/12\/2019", "NAMA_HKM": "KT BIDO JAYA", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 827102.0, "Shape_Leng": 0.032066728578199998, "Shape_Area": 6.6981624621599995e-05, "Luas_Ha": 82.470628851800001, "Kategori": "HKM", "Nama_File": "HKM_Maluku Utara_Kota Ternate_Pulau Batang Dua_Bido_KT BIDO JAYA" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 126.40216111064683, 1.324186111000245 ], [ 126.396853883000404, 1.323451221896448 ], [ 126.392877352507867, 1.331517472453413 ], [ 126.396189248035398, 1.334632676356989 ], [ 126.398274068993146, 1.333266755456464 ], [ 126.401694544167981, 1.330143713961263 ], [ 126.402438126118682, 1.325979656835727 ], [ 126.40216111064683, 1.324186111000245 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sulawesi Utara_Bolaang Mongondow Selatan_Pinolosian Tengah_Mataindo Utara_KTH PATUNG JAYA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1667, "HD_ID": 0.0, "NAMA_PROV": "Sulawesi Utara", "NAMA_KAB": "Bolaang Mongondow Selatan", "NAMA_KEC": "Pinolosian Tengah", "NAMA_DESA": "Mataindo Utara", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "Proses", "NAMA_HKM": "KTH PATUNG JAYA", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 711112.0, "Shape_Leng": 0.060792482874199999, "Shape_Area": 0.000192400193754, "Luas_Ha": 236.83431413100001, "Kategori": "HKM", "Nama_File": "HKM_Sulawesi Utara_Bolaang Mongondow Selatan_Pinolosian Tengah_Mataindo Utara_KTH PATUNG JAYA" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 124.229109025860907, 0.441688272395879 ], [ 124.229106362069047, 0.441687212994509 ], [ 124.224341745775064, 0.448398717626787 ], [ 124.224341490367578, 0.448399077355589 ], [ 124.224341159417008, 0.44840822795743 ], [ 124.22375535452602, 0.464597745189849 ], [ 124.223755100017911, 0.464604779686908 ], [ 124.223687139150229, 0.466482981404511 ], [ 124.223690808384163, 0.466479266305157 ], [ 124.238047187128018, 0.451944473758488 ], [ 124.237333347556046, 0.450052802894561 ], [ 124.236131721102083, 0.447941031053801 ], [ 124.233388201604271, 0.44455565282118 ], [ 124.231404920400792, 0.442724658316365 ], [ 124.229548941830217, 0.441863293056599 ], [ 124.229109025860907, 0.441688272395879 ] ] ] ] } }
+]
+}

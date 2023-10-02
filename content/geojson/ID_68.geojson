@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ID_68",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "KABUPATEN": "Sigi", "Kecamatan": "Pipikoro", "DESA": "Lawe", "KOMUNITAS": null, "Thn_PP": "2018", "STAT_BRWA": null, "KEBIJAKAN": null, "PERDA": null, "PROVINSI": "Sulawesi Tengah", "Sumber": null, "KLAS": "Usulan TORA", "Keterangan": "Usulan TORA", "Batas_Desa": null, "Luas_Ha": 11.9366776968, "BA_Batas": null, "Update_PP": null, "REGION": null, "PW": null, "PD": null, "PENGUSUL": null, "TIPE_KEBIJ": null, "TAHUN_PERD": 0.0, "SK": null, "TAHUN_SK": 0.0, "KET_HA": null, "LOKASI_PRI": null, "ID": 68 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 119.835102646787007, -1.700332559937237, 0.0 ], [ 119.834269835755094, -1.700499122886897, 0.0 ], [ 119.833080105196174, -1.700023229997703, 0.0 ], [ 119.831855659243118, -1.699230938808823, 0.0 ], [ 119.832078083005783, -1.699021514173991, 0.0 ], [ 119.832400957281791, -1.698717509289545, 0.0 ], [ 119.832717896388786, -1.698419093583693, 0.0 ], [ 119.833046754342931, -1.698065771779091, 0.0 ], [ 119.833930969670348, -1.697115779042325, 0.0 ], [ 119.834396362564533, -1.696222901236806, 0.0 ], [ 119.834983673910799, -1.697334439721005, 0.0 ], [ 119.83619719904496, -1.698381402685414, 0.0 ], [ 119.836054431593453, -1.69942836507497, 0.0 ], [ 119.835102646787007, -1.700332559937237, 0.0 ] ] ] ] } }
+]
+}

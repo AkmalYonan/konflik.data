@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sulawesi Tenggara_Buton_Lasalimu_Waoleona_KT BEBESO I DAN KT BEBESO II",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1866, "HD_ID": 0.0, "NAMA_PROV": "Sulawesi Tenggara", "NAMA_KAB": "Buton", "NAMA_KEC": "Lasalimu", "NAMA_DESA": "Waoleona", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK.1006\/Menlhk-PSKL\/PKPS\/PSL.0\/3\/2017", "NAMA_HKM": "KT BEBESO I DAN KT BEBESO II", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 740402.0, "Shape_Leng": 0.054406022925799997, "Shape_Area": 0.00016502011723499999, "Luas_Ha": 203.9592078, "Kategori": "HKM", "Nama_File": "HKM_Sulawesi Tenggara_Buton_Lasalimu_Waoleona_KT BEBESO I DAN KT BEBESO II" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 122.909327762866042, -5.142315429313555 ], [ 122.909325201596857, -5.160386930812138 ], [ 122.900193561084052, -5.160385562043984 ], [ 122.900194623183324, -5.153575567258599 ], [ 122.900195800395977, -5.14602424512276 ], [ 122.900196379559361, -5.142314065042001 ], [ 122.909327762866042, -5.142315429313555 ] ] ] ] } }
+]
+}

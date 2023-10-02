@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HD_Sulawesi Selatan_Enrekang_Masalle_Masalle_Masalle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 635, "HD_ID": 731605.0, "NAMA_PROV": "Sulawesi Selatan", "NAMA_KAB": "Enrekang", "NAMA_KEC": "Masalle", "NAMA_DESA": "Masalle", "NAMA_LPHD": "Masalle", "NO_SK_HPHD": "SK. 3075\/MENLHK-PSKL\/PKPS\/PSL.0\/5\/2018", "NO_SK_PAK": "SK.700\/Menhut-II\/2014", "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 0.0, "Shape_Leng": 0.036041192769699998, "Shape_Area": 8.2221005261799999e-05, "Luas_Ha": 101.38245917, "Kategori": "HD", "Nama_File": "HD_Sulawesi Selatan_Enrekang_Masalle_Masalle_Masalle" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 119.768341071483292, -3.357051040473095 ], [ 119.763343762804425, -3.358963590896963 ], [ 119.758058543367156, -3.358264378797969 ], [ 119.755960908868929, -3.357318387333635 ], [ 119.755343956858155, -3.3502645728517 ], [ 119.757503287546797, -3.349771012322321 ], [ 119.761040476736639, -3.35007948787802 ], [ 119.764413145750154, -3.352259382464467 ], [ 119.768341071483292, -3.357051040473095 ] ] ] ] } }
+]
+}

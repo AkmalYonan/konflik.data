@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sumatera Utara_Labuhanbatu Utara_Kualuh Leidong_Air Hitam_KTH KARYA PRIMA LEIDONG SEJAHTERA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1005, "HD_ID": 0.0, "NAMA_PROV": "Sumatera Utara", "NAMA_KAB": "Labuhanbatu Utara", "NAMA_KEC": "Kualuh Leidong", "NAMA_DESA": "Air Hitam", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK.8112\/MENLHK-PSKL\/PKPS\/PSL.0\/9\/2019", "NAMA_HKM": "KTH KARYA PRIMA LEIDONG SEJAHTERA", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 122301.0, "Shape_Leng": 0.1505730351, "Shape_Area": 0.00075610609205, "Luas_Ha": 931.71936011900004, "Kategori": "HKM", "Nama_File": "HKM_Sumatera Utara_Labuhanbatu Utara_Kualuh Leidong_Air Hitam_KTH KARYA PRIMA LEIDONG SEJAHTERA" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 99.865166667207973, 2.686222221778166 ], [ 99.865194443668713, 2.683611111263815 ], [ 99.874277777997122, 2.683833332842084 ], [ 99.874333332717185, 2.674333332717197 ], [ 99.865055555969207, 2.674333332717197 ], [ 99.864638888374031, 2.658833332892073 ], [ 99.855972221640798, 2.658749999912629 ], [ 99.855861110401975, 2.637694444443127 ], [ 99.847999999700278, 2.637638888823687 ], [ 99.846305555557024, 2.685750000362248 ], [ 99.865166667207973, 2.686222221778166 ] ] ] ] } }
+]
+}

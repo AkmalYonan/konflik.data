@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HD_Kalimantan Tengah_Pulang Pisau_Kahayan Tengah_Balu Palawa_LPHD Balu Palawa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 434, "HD_ID": 621109.0, "NAMA_PROV": "Kalimantan Tengah", "NAMA_KAB": "Pulang Pisau", "NAMA_KEC": "Kahayan Tengah", "NAMA_DESA": "Balu Palawa", "NAMA_LPHD": "LPHD Balu Palawa", "NO_SK_HPHD": "SK. 10384\/MENLHK-PSKL\/PKPS\/PSL.0\/12\/2019", "NO_SK_PAK": null, "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 0.0, "Shape_Leng": 0.076942768017499996, "Shape_Area": 0.00032209301840899999, "Luas_Ha": 396.70344248700002, "Kategori": "HD", "Nama_File": "HD_Kalimantan Tengah_Pulang Pisau_Kahayan Tengah_Balu Palawa_LPHD Balu Palawa" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 113.829995386078281, -1.960617160053857 ], [ 113.854980365551455, -1.960561556770358 ], [ 113.855558396702691, -1.964401245521003 ], [ 113.856305418560282, -1.972846645756022 ], [ 113.82904131060809, -1.972912410479296 ], [ 113.829995386078281, -1.960617160053857 ] ] ] ] } }
+]
+}

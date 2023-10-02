@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+   <link type="text/css" rel="stylesheet" href="style.css">
+   <title>Javascript Latihanku</title>
+	<script type="text/javascript" src="my.js"></script>
+	<script type="text/javascript" charset="utf-8">
+	function fnHitung() {
+	var angka = bersihPemisah(bersihPemisah(bersihPemisah(bersihPemisah(document.getElementById('inputku').value)))); //input ke dalam angka tanpa titik
+	if (document.getElementById('inputku').value == "") {
+		alert("Jangan Dikosongi");
+		document.getElementById('inputku').focus();
+		return false;
+	}
+	else
+		if (angka >= 1) {
+		alert("angka aslinya : "+angka);
+		document.getElementById('inputku').focus();
+		document.getElementById('inputku').value = tandaPemisahTitik(angka) ;
+		return false; 
+		}
+	}
+	</script>
+  </head>
+  <body>
+  	<div id="angka">
+  		<div id="input">
+  		<center><h1>Format Input Javascript</h1></center>
+    	<input type="text" id="inputku" onkeydown="return numbersonly(this, event);" onkeyup="javascript:tandaPemisahTitik(this);">
+		<input name="submit" tabindex="32" type="submit" id="submit" onclick="fnHitung()" value="Convert">
+		</div>
+	</div>
+  </body>
+</html>

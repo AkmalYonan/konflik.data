@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sulawesi Utara_Bolaang Mongondow Selatan_Pinolosian Tengah_Mataindo Utara_KTH KAKADO MOTOBATU",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1665, "HD_ID": 0.0, "NAMA_PROV": "Sulawesi Utara", "NAMA_KAB": "Bolaang Mongondow Selatan", "NAMA_KEC": "Pinolosian Tengah", "NAMA_DESA": "Mataindo Utara", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "Proses", "NAMA_HKM": "KTH KAKADO MOTOBATU", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 711110.0, "Shape_Leng": 0.073880409554800006, "Shape_Area": 0.00022271590339100001, "Luas_Ha": 274.15195266799998, "Kategori": "HKM", "Nama_File": "HKM_Sulawesi Utara_Bolaang Mongondow Selatan_Pinolosian Tengah_Mataindo Utara_KTH KAKADO MOTOBATU" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 124.221430337240349, 0.461155277094406 ], [ 124.216419411027005, 0.45372002415985 ], [ 124.216416780510031, 0.453732103853554 ], [ 124.210651597393394, 0.480203425247907 ], [ 124.21099423999226, 0.481554958794334 ], [ 124.211888917039914, 0.48519077483445 ], [ 124.213297557536293, 0.487703486027101 ], [ 124.218018409222282, 0.480641245796903 ], [ 124.223690808384163, 0.466479266305157 ], [ 124.223695803218789, 0.466466796305667 ], [ 124.22376718690623, 0.464622713967117 ], [ 124.223755100017911, 0.464604779686908 ], [ 124.221430337240349, 0.461155277094406 ] ] ] ] } }
+]
+}

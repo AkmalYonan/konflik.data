@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HD_Papua Barat_Manokwari_Distrik Manokwari Utara_Kamoung Saubeba_Kamoung Saubeba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 875, "HD_ID": 920201.0, "NAMA_PROV": "Papua Barat", "NAMA_KAB": "Manokwari", "NAMA_KEC": "Distrik Manokwari Utara", "NAMA_DESA": "Kamoung Saubeba", "NAMA_LPHD": "Kamoung Saubeba", "NO_SK_HPHD": "SK. 10275\/MENLHK-PSKL\/PKPS\/PSL.0\/12\/2019", "NO_SK_PAK": null, "NO_IUPHKM": null, "NAMA_HKM": null, "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 0.0, "Shape_Leng": 0.061655873517399998, "Shape_Area": 0.00016925097569600001, "Luas_Ha": 208.35038712599999, "Kategori": "HD", "Nama_File": "HD_Papua Barat_Manokwari_Distrik Manokwari Utara_Kamoung Saubeba_Kamoung Saubeba" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 133.957260133748264, -0.749253391131049 ], [ 133.959779335348117, -0.740187245544917 ], [ 133.961703294571407, -0.739730732587191 ], [ 133.964050293086643, -0.739555715523807 ], [ 133.966739276796261, -0.739650261250517 ], [ 133.968838481510829, -0.740094863587046 ], [ 133.969984030738487, -0.740514622152034 ], [ 133.96017517374537, -0.761369688160528 ], [ 133.960342408075689, -0.760145484226655 ], [ 133.959030083171911, -0.759666419869347 ], [ 133.958084106996012, -0.760982512932571 ], [ 133.956542883947009, -0.761699893135528 ], [ 133.95582580591622, -0.760024308674872 ], [ 133.956069947570086, -0.758348822240293 ], [ 133.955596923958979, -0.756433785191007 ], [ 133.957260133748264, -0.749253391131049 ] ] ] ] } }
+]
+}

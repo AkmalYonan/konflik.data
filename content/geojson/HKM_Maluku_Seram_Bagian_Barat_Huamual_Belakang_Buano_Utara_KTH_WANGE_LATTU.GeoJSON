@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Maluku_Seram Bagian Barat_Huamual Belakang_Buano Utara_KTH WANGE LATTU",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 2059, "HD_ID": 0.0, "NAMA_PROV": "Maluku", "NAMA_KAB": "Seram Bagian Barat", "NAMA_KEC": "Huamual Belakang", "NAMA_DESA": "Buano Utara", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK. 6360\/MENLHK-PSKL\/PKPS\/PSL.0\/7\/2019", "NAMA_HKM": "KTH WANGE LATTU", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 810621.0, "Shape_Leng": 0.067120980328, "Shape_Area": 0.00018758831315100001, "Luas_Ha": 231.21733138600001, "Kategori": "HKM", "Nama_File": "HKM_Maluku_Seram Bagian Barat_Huamual Belakang_Buano Utara_KTH WANGE LATTU" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 127.932878916229015, -2.954666898058861 ], [ 127.949763288345139, -2.966073270265156 ], [ 127.947357190881689, -2.968780141490299 ], [ 127.944367847098533, -2.973204351799325 ], [ 127.94422825343122, -2.973410948556364 ], [ 127.924323707872873, -2.955179846172939 ], [ 127.927159596738079, -2.95337517392511 ], [ 127.928735520128271, -2.95186779416332 ], [ 127.932878916229015, -2.954666898058861 ] ] ] ] } }
+]
+}

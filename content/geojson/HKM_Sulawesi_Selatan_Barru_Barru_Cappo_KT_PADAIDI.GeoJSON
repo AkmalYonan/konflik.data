@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sulawesi Selatan_Barru_Barru_Cappo_KT PADAIDI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1764, "HD_ID": 0.0, "NAMA_PROV": "Sulawesi Selatan", "NAMA_KAB": "Barru", "NAMA_KEC": "Barru", "NAMA_DESA": "Cappo", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": "SK. 185\/MenLHK-II\/2015", "NO_IUPHKM": "SK.6892\/MENLHK-PSKL\/PKPS\/PSL.0\/12\/2017", "NAMA_HKM": "KT PADAIDI", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 731102.0, "Shape_Leng": 0.034453600017999998, "Shape_Area": 8.1780129654299998e-05, "Luas_Ha": 100.97215108, "Kategori": "HKM", "Nama_File": "HKM_Sulawesi Selatan_Barru_Barru_Cappo_KT PADAIDI" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 119.668347907430075, -4.448911381455048 ], [ 119.667266022109288, -4.454444607832329 ], [ 119.66449615967008, -4.454335109077988 ], [ 119.661493330552844, -4.455690966564816 ], [ 119.659308184824908, -4.452560611782758 ], [ 119.659171683926161, -4.447719199681273 ], [ 119.661034437988974, -4.444006318037111 ], [ 119.665800603814887, -4.444437398167338 ], [ 119.668347907430075, -4.448911381455048 ] ] ] ] } }
+]
+}

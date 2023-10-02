@@ -1,0 +1,1 @@
+<?=js_asset("plugin/elastic/jquery.elastic-1.6.js");?>

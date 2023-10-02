@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Kalimantan Tengah_Barito Utara_Tewe Tengah_Sei Rahayu II_KTH DATAH BERBUAH",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1527, "HD_ID": 0.0, "NAMA_PROV": "Kalimantan Tengah", "NAMA_KAB": "Barito Utara", "NAMA_KEC": "Tewe Tengah", "NAMA_DESA": "Sei Rahayu II", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK. 2580\/MENLHK-PSKL\/PKPS\/PSL.0\/4\/2018", "NAMA_HKM": "KTH DATAH BERBUAH", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 620501.0, "Shape_Leng": 0.038621058332400003, "Shape_Area": 9.0075187690699999e-05, "Luas_Ha": 110.88795559, "Kategori": "HKM", "Nama_File": "HKM_Kalimantan Tengah_Barito Utara_Tewe Tengah_Sei Rahayu II_KTH DATAH BERBUAH" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 114.678711501434691, -0.892637399596254 ], [ 114.678584638570328, -0.900515521873785 ], [ 114.667212031410145, -0.900508206788288 ], [ 114.667217060419034, -0.892634220492823 ], [ 114.667226410670423, -0.892630084510756 ], [ 114.678711501434691, -0.892637399596254 ] ] ] ] } }
+]
+}

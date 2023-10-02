@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Sulawesi Tenggara_Muna Barat_Lawa_Latugho_KTH JATI JAYA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1927, "HD_ID": 0.0, "NAMA_PROV": "Sulawesi Tenggara", "NAMA_KAB": "Muna Barat", "NAMA_KEC": "Lawa", "NAMA_DESA": "Latugho", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK. 9029\/MENLHK-PSKL\/PKPS\/PSL.0\/12\/2018", "NAMA_HKM": "KTH JATI JAYA", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 741301.0, "Shape_Leng": 0.022823303416000001, "Shape_Area": 2.8725333419e-05, "Luas_Ha": 35.485051021899999, "Kategori": "HKM", "Nama_File": "HKM_Sulawesi Tenggara_Muna Barat_Lawa_Latugho_KTH JATI JAYA" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 122.548961809839739, -4.815575973852049 ], [ 122.548955851831124, -4.81561218055765 ], [ 122.546896193004955, -4.815626110156813 ], [ 122.546358635842466, -4.81562974611586 ], [ 122.541921336800328, -4.815659751995895 ], [ 122.541914654837569, -4.815605834041946 ], [ 122.541454890830664, -4.81189594084492 ], [ 122.549583648766429, -4.811796824763633 ], [ 122.548961809839739, -4.815575973852049 ] ] ] ] } }
+]
+}

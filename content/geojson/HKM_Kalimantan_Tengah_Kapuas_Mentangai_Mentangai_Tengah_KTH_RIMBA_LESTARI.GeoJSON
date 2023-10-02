@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Kalimantan Tengah_Kapuas_Mentangai_Mentangai Tengah_KTH RIMBA LESTARI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1526, "HD_ID": 0.0, "NAMA_PROV": "Kalimantan Tengah", "NAMA_KAB": "Kapuas", "NAMA_KEC": "Mentangai", "NAMA_DESA": "Mentangai Tengah", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": null, "NO_IUPHKM": "SK.9007\/MENLHK-PSKL\/PKPS\/PSL.0\/12\/2018", "NAMA_HKM": "KTH RIMBA LESTARI", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 620308.0, "Shape_Leng": 0.038120395065999998, "Shape_Area": 8.3015916320500004e-05, "Luas_Ha": 102.282503797, "Kategori": "HKM", "Nama_File": "HKM_Kalimantan Tengah_Kapuas_Mentangai_Mentangai Tengah_KTH RIMBA LESTARI" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 114.453189147761009, -2.489179289992194 ], [ 114.453360205109448, -2.49171092561869 ], [ 114.444993188884609, -2.491535341982399 ], [ 114.444979247594233, -2.4812580991819 ], [ 114.455994826599976, -2.484503153497712 ], [ 114.454704505408699, -2.486653688816659 ], [ 114.454672025493664, -2.486707822607855 ], [ 114.453189147761009, -2.489179289992194 ] ] ] ] } }
+]
+}

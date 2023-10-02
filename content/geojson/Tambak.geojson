@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Tambak",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "Ha": 590 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 113.81999, -1.70567 ], [ 113.8413, -1.70588 ], [ 113.84406, -1.71362 ], [ 113.84356, -1.7182 ], [ 113.84365, -1.72758 ], [ 113.82307, -1.72815 ], [ 113.82083, -1.70984 ], [ 113.81999, -1.70567 ] ] ] } }
+]
+}

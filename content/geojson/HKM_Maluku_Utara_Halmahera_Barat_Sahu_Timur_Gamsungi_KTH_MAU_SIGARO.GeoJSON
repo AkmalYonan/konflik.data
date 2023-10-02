@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HKM_Maluku Utara_Halmahera Barat_Sahu Timur_Gamsungi_KTH MAU SIGARO",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 2079, "HD_ID": 0.0, "NAMA_PROV": "Maluku Utara", "NAMA_KAB": "Halmahera Barat", "NAMA_KEC": "Sahu Timur", "NAMA_DESA": "Gamsungi", "NAMA_LPHD": null, "NO_SK_HPHD": null, "NO_SK_PAK": "SK. 74\/Menlhk-II\/2015", "NO_IUPHKM": "SK.1490\/MENLHK-PSKL\/PKPS\/PSL.0\/4\/2018", "NAMA_HKM": "KTH MAU SIGARO", "NO_IUPHHK_": null, "NAMA_HTR": null, "HTR_ID": 0.0, "HKM_ID": 820103.0, "Shape_Leng": 0.024856521178999998, "Shape_Area": 3.7059356452199997e-05, "Luas_Ha": 45.627160994100002, "Kategori": "HKM", "Nama_File": "HKM_Maluku Utara_Halmahera Barat_Sahu Timur_Gamsungi_KTH MAU SIGARO" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 127.505829152593378, 1.226057241548517 ], [ 127.5103348171981, 1.223627618719661 ], [ 127.510656539767524, 1.223454134101075 ], [ 127.507822445049896, 1.218996816150195 ], [ 127.507644503391134, 1.219246154086761 ], [ 127.506729552926572, 1.219939863234174 ], [ 127.504708385983236, 1.220656447537067 ], [ 127.502957210806699, 1.221399596913898 ], [ 127.501844693677754, 1.221871719404362 ], [ 127.502530620991479, 1.223711654968952 ], [ 127.504256811202936, 1.226905107085088 ], [ 127.505795821919719, 1.226075214499588 ], [ 127.505829152593378, 1.226057241548517 ] ] ] ] } }
+]
+}

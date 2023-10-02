@@ -1,0 +1,263 @@
+@font-face {
+  font-family: BebasNeue;
+  src: url(../../../fa/font/BebasNeue.otf);
+}
+.navbar-inverse .navbar-inner,.navbar .navbar-inner {
+    /*background-color: rgb(34, 34, 34);
+    background-image: linear-gradient(to bottom, rgb(34, 34, 34), rgb(44, 44, 44));
+    background-repeat: repeat-x;
+    border-color: rgb(37, 37, 37);*/
+	background:transparent
+}
+.navbar-inverse .nav > li > a {
+	font-size: 12px;
+    color: rgb(240, 240, 240);
+}
+.navbar-inverse .nav .active > a, .navbar-inverse .nav .active > a:hover, .navbar-inverse .nav .active > a:focus {
+    color: rgb(113, 182, 14);
+    background-color: transparent!important;
+	box-shadow:none;
+	border-bottom:2px solid #fff
+}
+.navbar-inverse .nav li.dropdown.open > .dropdown-toggle,
+.navbar-inverse .nav li.dropdown.active > .dropdown-toggle,
+.navbar-inverse .nav li.dropdown.open.active > .dropdown-toggle {
+  background-color: rgb(54, 63, 72);
+  color: #ffffff;
+	-webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,.9), 0 1px 0 rgba(255,255,255,.75);
+  	-moz-box-shadow: inset 0 1px 0 rgba(255,255,255,.9), 0 1px 0 rgba(255,255,255,.75);
+  	box-shadow: inset 0 2px 0 rgba(255,255,255,.5), 0 1px 0 rgba(255,255,255,.75);
+
+}
+.navbar .brand {
+	padding-right:0px;
+		/*text-shadow: 0 1px 0 rgba(255,255,255,.125), 0 0 30px rgba(255,255,255,.9);
+	-webkit-transition: all .2s linear;
+     -moz-transition: all .2s linear;
+          transition: all .2s linear;*/
+}
+.navbar .brand2 {
+  display: block;
+  padding: 12px 20px 10px;
+  margin-left: -20px;
+  font-size: 20px;
+  font-weight: 200;
+  color: #777777;
+  text-shadow: 0 1px 0 #ffffff;
+}
+
+.navbar .brand2:hover,
+.navbar .brand2:focus {
+  text-decoration: none;
+}
+.navbar .brand2 {
+	padding-right: 10px;
+	color: rgb(44, 53, 62);
+	text-shadow: 0 1px 0 rgba(255,255,255,.125), 0 0 30px rgba(255,255,255,.9);
+	-webkit-transition: all .2s linear;
+     -moz-transition: all .2s linear;
+          transition: all .2s linear;
+}
+.navbar .brand2:hover {
+  text-decoration: none;
+  color: rgba(255,255,255,.5);
+}
+
+.navbar .nav .active > a, 
+.navbar .nav .active > a:hover, 
+.navbar .nav .active > a:focus,
+.navbar .nav li.dropdown.open > .dropdown-toggle {
+    color: rgb(113, 182, 14);
+    background-color: transparent!important;
+	box-shadow:none;
+	line-height: 55px;
+	border-bottom:3px solid #71b60e
+}
+.navbar .nav > li > a {
+    float: none;
+    padding: 10px 15px;
+    color: #333;
+    text-decoration: none;
+	line-height: 55px;
+    text-shadow: 0px 1px 0px #FFF;
+}
+.navbar .nav li > a:hover {
+    color: #777;
+    background-color: transparent!important;
+	box-shadow:none;
+	line-height: 55px;
+	border-bottom:3px solid #ccc
+}
+.navbar .dropdown-menu > li > a:hover,
+.navbar .dropdown-menu > li > a:focus,
+.navbar .dropdown-submenu:hover > a,
+.navbar .dropdown-submenu:focus > a {
+  text-decoration: none;
+  color: #71b60e;
+  background-image:none;
+  line-height:20px!important;
+  border-bottom:none!important
+}
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  margin: 4px 0 0;
+}
+.navbar .nav > li > .dropdown-menu:before {
+  content: '';
+  display: inline-block;
+  border:none
+}
+.navbar .nav > li > .dropdown-menu:after {
+  content: '';
+  display: inline-block;
+  border:none
+}
+
+.lat-nav {
+    height: 100%;
+}
+.lat-nav > li {
+    line-height: 54px;
+    max-height: 54px;
+    /*background: none repeat scroll 0% 0% rgb(46, 101, 137);*/
+    border-left: 0px solid rgb(46,55,64);
+    padding: 0px 8px;
+	margin:0;
+    position: relative;
+}
+.lat-nav > li > a {
+    position: relative;
+    color: #555;
+    display: block;
+    height: 100%;
+    padding: 0px!important;
+    background-color: transparent;
+}
+.lat-nav > li:first-child {
+    border-left: medium none;
+}
+/*caret*/
+.navbar .nav .dropdown-toggle .caret {
+  margin-top: 21px;
+}
+/*menu icon*/
+.lat-nav li:first-child a [class^="icon-"] {
+    display: inline-block;
+    width: 1.25em;
+    text-align: center;
+}
+.lat-nav > li > a > [class*="icon-"] {
+    font-size: 12px;
+    /*color: rgb(238, 238, 238);*/
+    display: inline-block;
+    width: 20px;
+    text-align: center;
+	margin-top:3px
+}
+
+/*
+li [class^="icon-"], li [class*=" icon-"], .nav-list li [class^="icon-"], .nav-list li [class*=" icon-"] {
+    width: auto;
+}
+*/
+.subnav .btn {
+    padding: 2px 10px;
+    margin-bottom: 0px;
+    font-size: 13px;
+    line-height: 20px;
+	height:30px;
+	color:#555;
+}
+.subnav .btn:hover {
+	color:#333;
+}
+/* pagination */
+.pagination {
+	margin:2px;
+}
+/* badges */
+.lat-nav > li > a > .badge {
+    position: relative;
+    padding-right: 6px;
+    padding-left: 6px;
+}
+.badge {
+    text-shadow: none;
+    font-size: 12px;
+    padding-top: 1px;
+    padding-bottom: 3px;
+    font-weight: normal;
+    line-height: 13px;
+}
+
+/*breadcrumb*/
+#breadcrumbs {
+    position: relative;
+    z-index: 13;
+    border-bottom: 1px solid rgb(229, 229, 229);
+    background-color: rgb(245, 245, 245);
+    padding: 5px;
+    display: block;
+	margin-bottom:5px;
+	
+	background-color: rgb(240, 240, 240);
+    background-image: linear-gradient(to bottom, rgb(210, 210, 210), rgb(230, 230, 230));
+    background-repeat: repeat-x;
+	box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+}
+.breadcrumb {
+    background-color: transparent;
+    display: inline-block;
+    line-height: 24px;
+    margin: 0px 22px 0px 12px;
+    padding: 0px;
+    font-size: 13px;
+    color: rgb(51, 51, 51);
+    border-radius: 0px 0px 0px 0px;
+}
+.breadcrumb > li > a {
+    display: inline-block;
+    padding: 0px 4px;
+    color: rgb(76, 143, 189);
+}
+.breadcrumb > li > .divider {
+    padding: 0px 4px;
+    color: rgb(174, 174, 174);
+}
+.breadcrumb > li > span > [class*="icon-"] {
+    font-size: 14px;
+}
+
+/* color */
+.grey {
+    color: rgb(85, 85, 85);
+}
+.purple {
+    color: rgb(137, 46, 101);
+}
+.green {
+    color: rgb(46, 137, 101);
+}
+.bg-grey {
+    background: none repeat scroll 0% 0% rgb(85, 85, 85);
+	border: none;
+}
+.bg-purple {
+    background: none repeat scroll 0% 0% rgb(137, 46, 101);
+	border: none;
+}
+.bg-green {
+    background: none repeat scroll 0% 0% rgb(46, 137, 101);
+}
+/* menu li */
+
+.lat-nav > li.grey {
+    background: none repeat scroll 0% 0% rgb(85, 85, 85);
+}
+.lat-nav > li.purple {
+    background: none repeat scroll 0% 0% rgb(137, 46, 101);
+}
+.lat-nav > li.green {
+    background: none repeat scroll 0% 0% rgb(46, 137, 101);
+}

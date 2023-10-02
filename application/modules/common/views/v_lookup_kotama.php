@@ -1,0 +1,1 @@
+<? pre($arr_kotama);?>
